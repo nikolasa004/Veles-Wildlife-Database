@@ -98,6 +98,7 @@
 <rect x="0" y="0" width="221" height="130" />
 </clipPath>
 </defs>
+<rect x="0" y="0" width="100%" height="100%" fill="#FFFFFF"/>
 <g stroke-linecap="butt" >
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M324 509 L324 418" />
 <path stroke-dasharray="none" d=" M318.0 509.0 L324.0 497.0 L330.0 509.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />

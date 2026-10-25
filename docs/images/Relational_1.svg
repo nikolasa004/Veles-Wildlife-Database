@@ -113,6 +113,7 @@
 <rect x="0" y="0" width="175" height="102" />
 </clipPath>
 </defs>
+<rect x="0" y="0" width="100%" height="100%" fill="#FFFFFF"/>
 <g stroke-linecap="butt" >
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1920 521 L1920 457" />
 <polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1920 521 1917 515 1923 515" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
