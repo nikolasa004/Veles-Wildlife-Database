@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="TokomMeteorologije" directorySegmentName="seg_0" id="251D3466-19A4-5690-5589-B872E47A3D45">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 21:33:58 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<targetPk>97C2757D-FDEE-FDB0-33D0-04D9DF120AA1</targetPk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>0E3C5ECD-B554-295E-A030-6DBB23E71894</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>62F25F6A-CA47-3BB7-2A98-0D90FFC6FC4B</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

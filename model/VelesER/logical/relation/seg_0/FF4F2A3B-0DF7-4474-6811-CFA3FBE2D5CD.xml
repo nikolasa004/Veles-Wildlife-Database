@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="ImaDozvolu" directorySegmentName="seg_0" id="FF4F2A3B-0DF7-4474-6811-CFA3FBE2D5CD">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 21:12:33 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<sourcePk>1D1C0808-1AE6-C233-A264-62596C1DBF03</sourcePk>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>46A09529-3582-1CF9-3F6E-89C6ABFC46E5</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>C6C4AC50-D2F5-6AAB-8608-436791B6D063</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

@@ -1,0 +1,104 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3C68F30A-EF06-BD03-30D7-7F5F9DC8F5EB" name="Meteorologija">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>62F25F6A-CA47-3BB7-2A98-0D90FFC6FC4B</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="meteorologijaID" id="963A50D3-FCA5-ADAF-B74D-DB593BC86E04">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>73CB9795-42E2-93A7-26A4-370708715C9E</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="temperatura" id="B20EB95D-D746-B992-BEA8-25D69D9E68E1">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>8A6BADAE-DD37-E127-3BC0-222301685DBE</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,6,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vlaznost" id="A7B12BEE-50EA-4CF3-50D9-8F5C98513E2F">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>E3AC4116-AA81-0C65-9572-C666D5D12331</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="oblacnost" id="956F8F5F-C379-B047-50B4-9C987FDF7C85">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>AE1AE947-A3E4-2036-6417-C469E7812F5E</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="padavine" id="1376ACFF-D33B-A0CE-F208-C70134E50FF7">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>821CC77A-BCC1-763E-22E0-6D3A46A681CF</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vetar" id="7A8EEEC6-6016-DA94-9C25-41C18D1FBBE2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D1FFF611-F7A8-28FF-23A7-B97BC0CE5C88</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="E6708D54-048B-2806-85D2-5D7EA7FF99FB" name="Meteorologija_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>97C2757D-FDEE-FDB0-33D0-04D9DF120AA1</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="963A50D3-FCA5-ADAF-B74D-DB593BC86E04"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

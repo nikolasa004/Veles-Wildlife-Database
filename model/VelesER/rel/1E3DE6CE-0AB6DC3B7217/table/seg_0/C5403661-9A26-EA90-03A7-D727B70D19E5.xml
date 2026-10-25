@@ -1,0 +1,48 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="C5403661-9A26-EA90-03A7-D727B70D19E5" name="Trofej">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>6B652BF3-6A61-AC3C-ED6D-B01B997D11D5</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="trofejID" id="F09C193F-9F56-DA26-65FD-2C2AC32143BD">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D4FD352F-C0C5-943A-9016-071F925EF489</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipTrofeja" id="62CC4C0C-F457-3CDC-323B-8875CA3EC451">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>5F4A64DE-0B85-53CC-E658-8295059363E3</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>D8320EAF-B58F-E822-1B50-6EE905278C89</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="C893F7D1-E727-3863-590F-C01ABB7F7F74" name="Trofej_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>FAF46E19-1E7D-D47A-DB79-6353B5EE2101</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="F09C193F-9F56-DA26-65FD-2C2AC32143BD"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

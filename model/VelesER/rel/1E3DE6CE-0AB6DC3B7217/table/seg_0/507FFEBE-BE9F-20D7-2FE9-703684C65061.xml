@@ -1,0 +1,132 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="507FFEBE-BE9F-20D7-2FE9-703684C65061" name="Istrazivac">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D4230493-C9CF-E80E-2C7E-7238BAC294D3</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="email" id="9E1B4F43-9518-6BA5-21EE-E271BF53520B">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>3F4F195B-93DD-4E58-8FDA-4EF0D688E476</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="7A571EC9-CE0D-1A65-7F53-246469A1A548" referredColumn="457EF534-7069-9411-AD31-66E831C89825"/>
+</associations>
+</Column>
+<Column name="zvanje" id="56330B39-443A-E649-7342-6872166DCB21">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>BC014B3F-2E89-CE2A-14FA-E57CB96B91AF</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="oblastIstrazivanja" id="A661BFC8-330C-62BB-8A32-01250B6C5599">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>9A9B4BDA-B32E-EA85-EDAA-08D430B4BECE</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="organizacija" id="1A6E27BB-EF32-64C3-E178-206DCFA48AF3">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>AEF64420-6749-EAE3-FE00-943D25C1AD3E</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="A98F5A7E-3A4B-9734-F2FA-EC1017587B26" referredColumn="0F526668-9C17-A71D-0DF0-9841F3FDF9DC"/>
+</associations>
+</Column>
+<Column name="mentor" id="39B15E62-7551-8006-77CF-CB6A3FE737D0">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>35C4F395-344F-42CA-23F2-C95F0E98247D</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="C13BD694-2F2E-3E1F-613C-9F8441874CD1" referredColumn="9E1B4F43-9518-6BA5-21EE-E271BF53520B"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="477C374A-9331-8EF6-5937-6160C6D8CD8E" name="Istrazivac_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1D1C0808-1AE6-C233-A264-62596C1DBF03</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9E1B4F43-9518-6BA5-21EE-E271BF53520B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="03049BAC-D003-7E43-6132-89D7E2FD2604" name="Istrazivac_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>34EEA21A-D36D-0634-F75F-ABB27D97C23D</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9E1B4F43-9518-6BA5-21EE-E271BF53520B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="1062D72C-B9E6-6A6C-70A3-ACE31A9BA5CF" name="Istrazivac_FKv2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>FA993C00-C1F4-E494-A874-496B19864275</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="39B15E62-7551-8006-77CF-CB6A3FE737D0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="76EC2E78-7855-775D-FAA2-5E4498ECEF8E" name="Istrazivac_FKv3">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D1440346-63F1-8293-BAE9-BE3CF2E842B9</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1A6E27BB-EF32-64C3-E178-206DCFA48AF3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,72 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1EF79FE5-D79B-758E-68CC-DE0483C1BDA3" name="Staniste">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>53A4F0F7-D29B-A25C-6661-51DC9278854C</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="stanisteID" id="7F270CF9-081B-1336-67B5-1D375400914D">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>9DC48BC8-E855-B020-E15B-856C13689F30</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="naziv" id="8DAB3BE3-6AE9-F7D3-F0CD-CAB6EE162216">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>CB3BAF97-C87C-183F-FF53-B137688888DD</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tip" id="0A2120B7-72D7-AEC3-9B5F-2A2C0C9C2E52">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>B128BB27-B466-5924-F458-9E352285C910</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D74DED15-0F5C-BD72-3329-34635771DE03" name="Staniste_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>F8E05350-79D8-FF43-FE73-87A301455663</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7F270CF9-081B-1336-67B5-1D375400914D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="0B924BA6-1C04-95BE-3200-EC88166A40B0" name="Staniste_UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>12678017-501F-CCA0-0577-524BB3A7DDA9</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8DAB3BE3-6AE9-F7D3-F0CD-CAB6EE162216"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

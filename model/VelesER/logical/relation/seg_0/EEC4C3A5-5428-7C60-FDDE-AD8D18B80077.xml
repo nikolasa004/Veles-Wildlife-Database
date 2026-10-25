@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="ImaMane" directorySegmentName="seg_0" id="EEC4C3A5-5428-7C60-FDDE-AD8D18B80077">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 19:59:05 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<sourcePk>ABE52355-9D35-F60D-B864-444A1A34DB7D</sourcePk>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>0E3C5ECD-B554-295E-A030-6DBB23E71894</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>84642B1D-46BD-6898-8A50-DF7BE64A1048</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

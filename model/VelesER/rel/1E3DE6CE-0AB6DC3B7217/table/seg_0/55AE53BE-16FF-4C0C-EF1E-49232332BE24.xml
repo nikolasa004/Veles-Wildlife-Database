@@ -1,0 +1,96 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="55AE53BE-16FF-4C0C-EF1E-49232332BE24" name="Korisnik">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>E655F6D9-928B-F811-13BE-9E34E108A95D</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="email" id="457EF534-7069-9411-AD31-66E831C89825">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>3F4F195B-93DD-4E58-8FDA-4EF0D688E476</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ime" id="9DEC9FFB-5C79-7280-0E6A-3A61726B56A6">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>4BD4E213-3275-4EE2-4924-8B77AD0ADCEF</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="prezime" id="7CC5F3B3-2D3C-51C3-BA52-FBDB73C9D0F2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D84EB521-A999-39F8-19D8-4317EC3A2645</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="lozinka" id="0E4592C1-5AA9-610E-3BF8-FB8BD5344DDD">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>FF71A0A9-EB69-DC26-A61E-7D53BA28BC0B</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="datumRegistracije" id="4887F6EE-5051-4FDC-2BB6-40BF21400C96">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>DCC048F5-0398-0AD4-587A-C689762355A2</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipKorisnika" id="48D458B6-4C53-0764-E6CE-15F081CF6F59">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>282F0BED-050E-2A3F-2D4A-4695A4665453</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>D4E26FB2-85B2-2F6D-542A-FDBDFD64BC71</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="1C90D8C8-1241-E063-19E2-F058108B3247" name="Korisnik_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1D1C0808-1AE6-C233-A264-62596C1DBF03</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="457EF534-7069-9411-AD31-66E831C89825"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,72 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4042B913-F798-A8E6-4C61-3949E42F0120" name="Intervencija">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>B2B23BC6-AC4D-B471-44C5-A2849FF01BC1</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="intervencijaID" id="D5AF0322-2486-BBFB-EAA6-C9EE83662F6C">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>AF6CDF8F-87CA-B1F2-99B9-F6AB649A6D3F</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vrsta" id="8E9D6E34-1D73-6D1F-1F5E-1A191A3DAECD">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>76C32DB8-2C08-3643-42AF-6FC99A4C18C1</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>0B3E6226-EEC7-CDD2-90A8-9011088F115C</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="opis" id="B934B3C8-84F6-6DCD-C6EB-197082CB476D">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>7720D2B2-E658-D453-D2EF-24FF131A79C4</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="55134EAD-CBEC-BA6A-1B17-292F2E9CD009" name="Intervencija_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1BE71BE2-5231-266B-9456-C4DCDDC9A2F8</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D5AF0322-2486-BBFB-EAA6-C9EE83662F6C"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="D2E0EA00-9C8F-548F-9DE5-5DE3152161B3" name="Intervencija_UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>5141412E-A2F9-AF64-CD92-CCB87BB16162</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8E9D6E34-1D73-6D1F-1F5E-1A191A3DAECD"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

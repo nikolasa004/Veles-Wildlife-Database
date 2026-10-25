@@ -1,0 +1,74 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="PosmatranjaIzazova" directorySegmentName="seg_0" id="17B9307A-FAAB-1668-0BC7-0D8325A7EC1C">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:21:18 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>0E3C5ECD-B554-295E-A030-6DBB23E71894</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>45E40E33-475A-0A18-3547-B339FEA1A189</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="pozicija" id="125BCB49-39B5-03F3-136B-3F4660CACE0C">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:21:30 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="datumDodavanja" id="72BBB572-B3D6-FCE8-376D-B2E624EC5CB8">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:21:45 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="prosecnaOcena" id="23D765CF-300B-53AD-B2B6-3BD7D3B464E1">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:22:17 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+</attribute>
+<attribute name="brojPregleda" id="2B0F402D-C762-0AB7-14C7-DCE80E497215">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:22:44 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

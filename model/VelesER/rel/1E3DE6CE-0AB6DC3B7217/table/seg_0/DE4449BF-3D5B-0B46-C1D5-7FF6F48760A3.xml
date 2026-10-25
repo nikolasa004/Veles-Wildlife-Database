@@ -1,0 +1,115 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="DE4449BF-3D5B-0B46-C1D5-7FF6F48760A3" name="KorisniciIzazova">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="izazovID" id="D0635621-BB95-9196-6F18-9349D8858903">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="0F5BB58C-0DC9-C282-81EE-1A8524CE7B79" referredColumn="3A23B121-2359-5E6C-20C3-D62E6AE1CF39"/>
+</associations>
+</Column>
+<Column name="email" id="F5C7483F-F84B-962C-BD97-DC8958FD9A7A">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="0B9B47EC-3FA8-917C-CA8C-27203FA58763" referredColumn="DD97AA85-8049-0FFC-1D03-B1A58446C26F"/>
+</associations>
+</Column>
+<Column name="pozicija" id="3A261058-432B-B92F-B3AE-A573BB4B452E">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>27689AFB-B92E-4D02-524F-0C3E85E567C6</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<isRelationshipColumn>true</isRelationshipColumn>
+</Column>
+<Column name="datumPrijave" id="913CAA87-9466-F107-3A11-4B294735CBFD">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>FBF0B1E4-7F1E-97EB-A33C-272AAD752991</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<isRelationshipColumn>true</isRelationshipColumn>
+</Column>
+<Column name="brojPoena" id="EAFF722A-FCCE-0AC2-E576-FE617339F41C">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>A3C84BF7-9969-825E-805D-A70692DEF2FE</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<isRelationshipColumn>true</isRelationshipColumn>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="E8BB2B62-C2D0-ECAF-A7F4-74206E4925E8" name="KorisniciIzazova_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D0635621-BB95-9196-6F18-9349D8858903"/>
+<colUsage columnID="F5C7483F-F84B-962C-BD97-DC8958FD9A7A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="80AC6EAA-D5E5-96EE-87AD-654BC56C815E" name="KorisniciIzazova_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>7CAC9BED-C73B-45AC-7DEF-08A3819121F6</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D0635621-BB95-9196-6F18-9349D8858903"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="2609FC0F-A229-91B2-3BF9-15F31951A6F3" name="KorisniciIzazova_FKv1">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>7CAC9BED-C73B-45AC-7DEF-08A3819121F6</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="F5C7483F-F84B-962C-BD97-DC8958FD9A7A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

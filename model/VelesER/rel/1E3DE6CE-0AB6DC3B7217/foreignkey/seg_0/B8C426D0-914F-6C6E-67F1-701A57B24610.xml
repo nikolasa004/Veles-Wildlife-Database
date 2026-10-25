@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="B8C426D0-914F-6C6E-67F1-701A57B24610" containerWithKeyObject="DAB266C6-1CB5-3F3D-6A8C-691A60D67293" localFKIndex="9A64F79B-F49B-5288-8355-F16B1478FC19" name="PosmatranjaAlbuma_FKv1">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>FD9AAED1-0B0D-0181-FD21-F6D222C4EE4F</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<referredTableLongName>Album</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>07B7BA45-42A0-2309-E479-24E3FBFA58B4</referredTableID>
+<keyObject>7435493C-7CC3-E060-5D83-D0C3E828E785</keyObject>
+<referredKeyID>7435493C-7CC3-E060-5D83-D0C3E828E785</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>albumID,korisnik</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

@@ -1,0 +1,114 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="ED7DA6A8-978C-EE0E-5E59-75AA0685D72E" name="Album">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:26:37 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="albumID" id="82868C64-538D-4056-3ED1-2360A8BD6F40">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:26:56 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="naziv" id="74ECF836-FC7D-5332-9B2D-5D5B1312DCF4">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:27:24 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="opis" id="47ED71F6-57E5-AC86-E0FB-59C0E06D9FE9">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 10:11:06 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>256</dataTypeSize>
+<ownDataTypeParameters>256,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="datumKreiranja" id="24B2466C-A440-C738-321C-D7E85E5C182F">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:27:59 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="privatnost" id="D5CB7F29-CD1A-79B2-7E6F-D84B567CCF1E">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:28:16 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT006</logicalDatatype>
+<dataTypeSize>1</dataTypeSize>
+<ownDataTypeParameters>1,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="korisnik" id="228A8B16-F35C-4B9D-FAAB-84382C43DD7A">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 06:24:24 UTC</createdTime>
+<generatorID>CBB1E829-3A41-8DB3-8822-3ED4E0E764AB</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<referedAttribute>3F4F195B-93DD-4E58-8FDA-4EF0D688E476</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="ACAF97CF-75F1-FFDA-B04C-F4CE0F0EF537" name="Album PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:27:22 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>82868C64-538D-4056-3ED1-2360A8BD6F40</attributeRef>
+<attributeRef>228A8B16-F35C-4B9D-FAAB-84382C43DD7A</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

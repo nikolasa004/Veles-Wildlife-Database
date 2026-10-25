@@ -1,0 +1,111 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="E655F6D9-928B-F811-13BE-9E34E108A95D" name="Korisnik">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:30:54 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="B0376EEE-BAF2-66B9-CDDB-6DED5FD742CD" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<discriminatorAttributeID>282F0BED-050E-2A3F-2D4A-4695A4665453</discriminatorAttributeID>
+<completeSubtypes>true</completeSubtypes>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="email" id="3F4F195B-93DD-4E58-8FDA-4EF0D688E476">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:33:30 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="B0376EEE-BAF2-66B9-CDDB-6DED5FD742CD" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ime" id="4BD4E213-3275-4EE2-4924-8B77AD0ADCEF">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:34:10 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="B0376EEE-BAF2-66B9-CDDB-6DED5FD742CD" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="prezime" id="D84EB521-A999-39F8-19D8-4317EC3A2645">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:34:31 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="B0376EEE-BAF2-66B9-CDDB-6DED5FD742CD" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="lozinka" id="FF71A0A9-EB69-DC26-A61E-7D53BA28BC0B">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:34:46 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="B0376EEE-BAF2-66B9-CDDB-6DED5FD742CD" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="datumRegistracije" id="DCC048F5-0398-0AD4-587A-C689762355A2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:35:28 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="B0376EEE-BAF2-66B9-CDDB-6DED5FD742CD" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="tipKorisnika" id="282F0BED-050E-2A3F-2D4A-4695A4665453">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-07 16:41:09 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="B0376EEE-BAF2-66B9-CDDB-6DED5FD742CD" value="true"/>
+</engineerTo>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>D4E26FB2-85B2-2F6D-542A-FDBDFD64BC71</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="1D1C0808-1AE6-C233-A264-62596C1DBF03" name="Korisnik PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:33:48 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="B0376EEE-BAF2-66B9-CDDB-6DED5FD742CD" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>3F4F195B-93DD-4E58-8FDA-4EF0D688E476</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

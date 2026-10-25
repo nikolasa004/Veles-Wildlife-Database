@@ -1,0 +1,116 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="3985EC32-2E4E-79B4-1434-EF38CA2281AE" name="Lokacija">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:03:54 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="lokacijaID" id="8BA60DD3-A2FE-DC87-9370-17E963CFA006">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:04:04 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="koordinataX" id="F6E71DF5-0118-0C5C-6190-4050E8C9CCCE">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:04:23 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<dataTypeScale>6</dataTypeScale>
+<ownDataTypeParameters>,9,6</ownDataTypeParameters>
+</Attribute>
+<Attribute name="koordinataY" id="4D7009D5-F7A8-2F6F-D441-7FEA73AD60F9">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:05:01 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<dataTypeScale>6</dataTypeScale>
+<ownDataTypeParameters>,9,6</ownDataTypeParameters>
+</Attribute>
+<Attribute name="region" id="4F7BA171-1064-8908-3D4C-72636428A993">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 20:52:32 UTC</createdTime>
+<generatorID>179681AC-1ECD-8F26-3F61-46B977CBDDFE</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>49628024-DD71-A0E6-A96F-3E93770C2386</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="staniste" id="1F4365E4-2EAD-BA85-8C09-1DD0408A6ACD">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 20:53:46 UTC</createdTime>
+<generatorID>D17C010D-CE0C-F5E8-8A39-4131EA616AA2</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>9DC48BC8-E855-B020-E15B-856C13689F30</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="5A6EAD83-1008-55A0-0C63-23584760BB74" name="Lokacija PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:04:22 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>8BA60DD3-A2FE-DC87-9370-17E963CFA006</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="D0B7B710-ECF1-1CFA-5641-479B08241542" name="Lokacija UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 07:46:59 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<newElementsIDs>F6E71DF5-0118-0C5C-6190-4050E8C9CCCE,4D7009D5-F7A8-2F6F-D441-7FEA73AD60F9</newElementsIDs>
+<usedAttributes>
+<attributeRef>F6E71DF5-0118-0C5C-6190-4050E8C9CCCE</attributeRef>
+<attributeRef>4D7009D5-F7A8-2F6F-D441-7FEA73AD60F9</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="PripadaTaksonomiji" directorySegmentName="seg_0" id="F4C4CD0C-B0DA-E60C-40E5-4530B1A405F7">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:41:55 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<targetPk>9400A59D-8717-EEE5-EA80-5988A8B83EBC</targetPk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>A27332F2-9290-7CEA-C151-0F4390D4355E</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>B98660F3-CFDE-D914-D607-65E891AF33FB</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

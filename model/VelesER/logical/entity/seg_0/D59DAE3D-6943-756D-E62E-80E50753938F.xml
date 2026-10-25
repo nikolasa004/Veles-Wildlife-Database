@@ -1,0 +1,153 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="D59DAE3D-6943-756D-E62E-80E50753938F" name="Organizacija">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:06:46 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="organizacijaID" id="B1E4E39A-A416-E7C3-B7A9-0AC70D1CD5DF">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:07:05 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="naziv" id="53452DD2-A642-9E21-FA87-EEA703716743">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:07:22 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="tip" id="40DF7FEA-B4B3-B2FE-CBA1-E9E7D6690F0B">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:07:39 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="opis" id="0487E3B5-CED5-D7E9-DBF6-EB2FD6E753E9">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 09:03:45 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>256</dataTypeSize>
+<ownDataTypeParameters>256,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="adresa" id="B3D5E0CA-497C-3712-46CB-A1AF9B156FD5">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:07:57 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="telefon" id="5B8C9B96-3136-B278-806D-13A5113C17E4">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:08:21 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="email" id="0CC8FD7C-89AF-9364-6A67-A2A6999F894A">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 09:01:45 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="link" id="EC2A4DD1-2332-CCBC-1D83-6F41F7C54B90">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 09:05:21 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>256</dataTypeSize>
+<ownDataTypeParameters>256,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="C6725F7C-3E09-FA70-656D-CC3951D11ABF" name="Organizacija PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 17:07:21 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>B1E4E39A-A416-E7C3-B7A9-0AC70D1CD5DF</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="17CCEE0E-0DFB-31FE-81F7-CA7CA1EB2AA9" name="Organizacija UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 09:02:54 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<newElementsIDs>53452DD2-A642-9E21-FA87-EEA703716743,40DF7FEA-B4B3-B2FE-CBA1-E9E7D6690F0B</newElementsIDs>
+<usedAttributes>
+<attributeRef>53452DD2-A642-9E21-FA87-EEA703716743</attributeRef>
+<attributeRef>40DF7FEA-B4B3-B2FE-CBA1-E9E7D6690F0B</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

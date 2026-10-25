@@ -1,0 +1,45 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="46A09529-3582-1CF9-3F6E-89C6ABFC46E5" name="StandardanKorisnik">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:53:10 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="628E0939-B261-48EB-24BF-9D2232D917F9" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>E655F6D9-928B-F811-13BE-9E34E108A95D</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<discriminatorValue>StandardanKorisnik</discriminatorValue>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="rang" id="46B964BF-E0A9-3135-BE31-01AA0BD2308D">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:53:18 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="628E0939-B261-48EB-24BF-9D2232D917F9" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="znacka" id="DB633DF4-68D7-BB48-FE52-B231247CB771">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 18:53:18 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="628E0939-B261-48EB-24BF-9D2232D917F9" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT010</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

@@ -1,0 +1,89 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="C6315969-E78D-E2BA-C98B-547768E35DC5" name="NagradeKorisnika">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 20:04:26 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="datumDodele" id="291BA16A-F5AF-A270-2876-87A40D84803D">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 20:05:17 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="email" id="238841D8-EF81-66BF-2D6E-431A3BBCB73F">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 20:08:50 UTC</createdTime>
+<generatorID>59AAA342-DC01-8EA3-365D-1BB30C4E1C96</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<referedAttribute>3F4F195B-93DD-4E58-8FDA-4EF0D688E476</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="nagrada" id="9C9E6EC9-F750-AE57-F726-276F79F0292E">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 20:09:11 UTC</createdTime>
+<generatorID>B29A08BA-C8E3-D923-C28E-8C3A742EFF93</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<referedAttribute>E51AEC24-0233-D49B-77F3-524D5D3F52F8</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="izazov" id="C00669EA-401E-3AB1-4135-8B24DAFC8B40">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 10:25:14 UTC</createdTime>
+<generatorID>A3974712-75A0-59EE-08D2-0D628EBC2C3A</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<referedAttribute>CA83E89E-9D8D-C50D-2976-006F5C20A647</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="030CC406-52A8-9EEC-3D5A-0D1ADC9C546C" name="NagradeKorisnika PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 20:08:50 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>238841D8-EF81-66BF-2D6E-431A3BBCB73F</attributeRef>
+<attributeRef>9C9E6EC9-F750-AE57-F726-276F79F0292E</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

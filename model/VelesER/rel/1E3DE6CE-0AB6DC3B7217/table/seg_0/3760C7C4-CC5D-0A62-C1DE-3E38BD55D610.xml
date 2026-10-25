@@ -1,0 +1,143 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3760C7C4-CC5D-0A62-C1DE-3E38BD55D610" name="ManePosmatranja">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>84642B1D-46BD-6898-8A50-DF7BE64A1048</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="tezinaMane" id="32DB433E-15A3-98F4-5A4D-C8D8397B04A2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1BBD43B7-8BC0-BAEF-4C0E-52D11A862EF6</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>213B01D3-C7F3-680F-B1DC-8DF4F59907F0</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="napomena" id="8576ABBB-F815-A0D9-FAFC-6261F96094AC">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>6D4A7292-22FA-9B83-11CC-DD9CFA1EB480</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>128</dataTypeSize>
+<ownDataTypeParameters>128,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="procenaOpasnosti" id="FBF892C6-EA01-8A0F-B520-7D9FDD9EA498">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>DC1841AE-787A-5C51-6ABF-E1A5C87A66EC</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>213B01D3-C7F3-680F-B1DC-8DF4F59907F0</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="mana" id="4C1DC454-2182-730E-DB2C-DDF223E24046">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>6329B2B5-4F70-50FF-AF1B-B93F44DA68C5</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="34387276-BA9E-7252-CE3D-0A50B9E347EC" referredColumn="E7E4B5CE-D7C8-1B9D-838F-DC4C0C5998BB"/>
+</associations>
+</Column>
+<Column name="posmatranje" id="E617A090-BD5B-6BC4-F179-EBAFCEC66377">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>E49A6CDE-0569-0033-E679-7B2CAF27EE0C</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="BBC42C2D-7E32-B4C5-F96B-76CF574539BF" referredColumn="7117D2D0-100D-D000-D541-68E19EB71DD9"/>
+</associations>
+</Column>
+<Column name="intervencija" id="DC82FE26-F724-2ABC-4D52-DB30BCE2E5E1">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>E325796C-9831-DAB9-8B8F-DF269030ED5A</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="952D3C6C-4371-7E27-64CF-7AE6E131E9F1" referredColumn="D5AF0322-2486-BBFB-EAA6-C9EE83662F6C"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="09DFD0E1-1CEE-5BC6-E556-5FBF0F567331" name="ManePosmatranja_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D8313FC9-6E7F-C720-3C12-9909BE3EB832</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="4C1DC454-2182-730E-DB2C-DDF223E24046"/>
+<colUsage columnID="E617A090-BD5B-6BC4-F179-EBAFCEC66377"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="CA1714B2-B143-DEB9-02B8-B98A36FB3E54" name="ManePosmatranja_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>EEC4C3A5-5428-7C60-FDDE-AD8D18B80077</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E617A090-BD5B-6BC4-F179-EBAFCEC66377"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="BDD92CC3-2EFB-0A38-7A13-8219FFDA33F5" name="ManePosmatranja_FKv2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>E87C4490-CCF1-520F-311E-9639F933A9FA</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="4C1DC454-2182-730E-DB2C-DDF223E24046"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="4860E6F2-D8A5-631E-70B3-B494FDB816C3" name="ManePosmatranja_FKv3">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>003ACC18-475D-63F5-B6DE-FD9D8ED1F351</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="DC82FE26-F724-2ABC-4D52-DB30BCE2E5E1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

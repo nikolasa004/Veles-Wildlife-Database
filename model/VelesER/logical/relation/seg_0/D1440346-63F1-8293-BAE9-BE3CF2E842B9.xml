@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="RadiUOrganizaciji" directorySegmentName="seg_0" id="D1440346-63F1-8293-BAE9-BE3CF2E842B9">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 21:01:10 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<targetPk>C6725F7C-3E09-FA70-656D-CC3951D11ABF</targetPk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>D4230493-C9CF-E80E-2C7E-7238BAC294D3</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>D59DAE3D-6943-756D-E62E-80E50753938F</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

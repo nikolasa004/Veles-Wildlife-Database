@@ -1,0 +1,125 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="33449F4E-86A0-C876-DED4-7EA5257C546F" name="Taksonomija">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>B98660F3-CFDE-D914-D607-65E891AF33FB</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="taksonomijaID" id="1D40BDEC-20D5-D8A7-AE5C-A9B8FBB40F2B">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>66502972-7B9A-6790-8301-633D14D452E7</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="carstvo" id="F270E152-1931-1D22-6333-058AD3D1D412">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>2AF77D98-57FC-C774-FD73-018020C4468B</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="razdeo" id="1FD5AEC4-EE9D-D785-87D9-AE0383B836C8">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>3AC779DA-9B9D-7A4A-5A99-935C58C92E1D</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="klasa" id="10199F99-FA3E-E300-82D3-C07A5267162C">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>83ACFDD0-D3E3-27A0-DBA4-4F0BF108AB80</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="red" id="89241813-EF25-0E48-DBF7-A5424924D238">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>CEC5231B-9C72-DA7A-EA7D-20F54B1CE64F</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="porodica" id="B79D4FC8-07BB-BCCE-2A45-4FF373F3E3CC">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>3538B3F1-86F2-AA9A-7E8E-DC4ADA4D8BC5</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="rod" id="E4AE084D-7B95-3550-C16B-DD95BE83C1C5">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>FF480CEB-2101-A6AC-0FAA-3DE6F6D09CFE</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="342D7073-77F7-B39A-615D-ABDE08E5EF27" name="Taksonomija_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>9400A59D-8717-EEE5-EA80-5988A8B83EBC</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1D40BDEC-20D5-D8A7-AE5C-A9B8FBB40F2B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="BDA16D9D-59FB-D0A9-DE35-6E2F2E01D802" name="Taksonomija_UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>123E768A-C659-AC99-BAA1-C3F642B53A08</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="F270E152-1931-1D22-6333-058AD3D1D412"/>
+<colUsage columnID="1FD5AEC4-EE9D-D785-87D9-AE0383B836C8"/>
+<colUsage columnID="10199F99-FA3E-E300-82D3-C07A5267162C"/>
+<colUsage columnID="89241813-EF25-0E48-DBF7-A5424924D238"/>
+<colUsage columnID="B79D4FC8-07BB-BCCE-2A45-4FF373F3E3CC"/>
+<colUsage columnID="E4AE084D-7B95-3550-C16B-DD95BE83C1C5"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

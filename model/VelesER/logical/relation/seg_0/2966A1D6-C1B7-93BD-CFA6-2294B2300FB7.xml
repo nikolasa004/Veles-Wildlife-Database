@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="ImaStatusZastite" directorySegmentName="seg_0" id="2966A1D6-C1B7-93BD-CFA6-2294B2300FB7">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 20:43:34 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<targetPk>7BB9247F-CF7C-163E-D654-B01A92698C32</targetPk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>A27332F2-9290-7CEA-C151-0F4390D4355E</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>8FFA8701-53C2-E5BE-20B6-810438128014</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

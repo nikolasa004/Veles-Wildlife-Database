@@ -1,0 +1,112 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="27AD657D-858E-725F-FD1D-D53109C6FA8A" name="Nagrada">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 12:41:16 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="0E59AE21-6B68-5AE2-85E3-9FA9F9E1618D" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="nagradaID" id="E51AEC24-0233-D49B-77F3-524D5D3F52F8">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 12:42:52 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="0E59AE21-6B68-5AE2-85E3-9FA9F9E1618D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="naziv" id="226A9FAE-830C-7FD7-BE26-BF35127EB6FB">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 12:43:06 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="0E59AE21-6B68-5AE2-85E3-9FA9F9E1618D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="vrednost" id="0CBF8B5B-58E5-7F5F-8ABD-601E60D46A23">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 20:08:17 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="0E59AE21-6B68-5AE2-85E3-9FA9F9E1618D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="opis" id="6332B3DF-068E-D93B-0356-CB22B8A1D178">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 12:43:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="0E59AE21-6B68-5AE2-85E3-9FA9F9E1618D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="medalja" id="A17B4677-C3B5-8F80-8B8F-58ADAF461D55">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-07 15:27:50 UTC</createdTime>
+<generatorID>97371CEF-402B-5FDB-48A8-161D9A604F51</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="0E59AE21-6B68-5AE2-85E3-9FA9F9E1618D" value="true"/>
+</engineerTo>
+<referedAttribute>B07BA5D9-DE01-3897-074F-34ADD23B344E</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="trofej" id="8265FE6A-F5AF-D59D-2A07-1A8A1CBE1991">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-07 15:29:26 UTC</createdTime>
+<generatorID>255BF9A1-26A2-1715-5011-27525E0C9898</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="0E59AE21-6B68-5AE2-85E3-9FA9F9E1618D" value="true"/>
+</engineerTo>
+<referedAttribute>D4FD352F-C0C5-943A-9016-071F925EF489</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="8CC832E2-24F5-91C2-F2F2-E2D2640C25B3" name="Nagrada PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 12:43:05 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="0E59AE21-6B68-5AE2-85E3-9FA9F9E1618D" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>E51AEC24-0233-D49B-77F3-524D5D3F52F8</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

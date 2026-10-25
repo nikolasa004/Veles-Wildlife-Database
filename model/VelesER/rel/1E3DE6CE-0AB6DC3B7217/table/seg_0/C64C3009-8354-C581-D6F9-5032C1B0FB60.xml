@@ -1,0 +1,281 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="C64C3009-8354-C581-D6F9-5032C1B0FB60" name="Posmatranje">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>0E3C5ECD-B554-295E-A030-6DBB23E71894</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="posmatranjeID" id="7117D2D0-100D-D000-D541-68E19EB71DD9">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>88DACB73-5A02-8AE8-03D0-76F5B6978927</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="aktivnostKorisnika" id="03C78418-E419-2EA6-158E-623D09E6BBB6">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>38F9A139-3B9A-B9C5-0958-264673459F72</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="aktivnostZivotinje" id="4297E370-F1BC-5311-0915-9958D741AFEA">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>FDB041F6-1BB6-77B8-5BDE-14B0F37B98D6</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="beleska" id="CAE87EB1-29FC-AACA-B340-50961A5A1E18">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>446E3A48-6106-3458-4E33-1EEEC7401A77</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>256</dataTypeSize>
+<ownDataTypeParameters>256,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="brojJedinki" id="121B6E93-00D6-CA9F-138E-7E57728F9845">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>404012E1-2C14-8C85-01B5-85EBD6959912</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="datum" id="B545042B-50FD-BD94-3AEF-07FFEF1214EA">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>A2DD869A-15F3-1150-968D-C01745D0B7CC</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="vreme" id="9EFFC86C-1076-E7C0-F8A1-FFC64CA29D74">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>4CC318B0-6067-4E9F-6D29-6F9A2E14F4B1</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipPosmatranja" id="F0F5DC5E-16AF-1E0C-F04A-13E14C5FD713">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>56AAC956-809D-82C0-E740-4FA1339B508C</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<domain>CE1467A9-8727-EF67-8186-52AFB02BECDE</domain>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="oprema" id="3B15B660-958D-D1FE-7971-8A10312D60BC">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>4E2D62FC-FE10-C5B8-409A-148946BD3D16</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="starost" id="81CAC0F1-2C06-99D6-7ABF-41B36C4CE905">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>87F48361-6B05-8FED-FEF0-A94DD5642CAC</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<domain>780E3A9C-B68D-9014-4B85-5B3AD7F14007</domain>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="pol" id="2E9CA8CD-14F8-2E83-F211-3168CDE35F2B">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D85FA6DD-4E9D-AE03-C1B1-4C38B0252596</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>DB92616E-6655-ACAC-B153-3CDE028732C3</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="zivotinja" id="B671EE38-5D94-970F-09C8-E4E7057DAA1A">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>ABC0AA73-F680-80EE-F075-08FE3DBE6BE2</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="0C4AFE36-E672-DE18-DC6A-D44CF73DB5C0" referredColumn="71991138-1BB1-BA61-C5F3-D5968034EBC2"/>
+</associations>
+</Column>
+<Column name="meteorologija" id="755BD492-EB40-C32E-2A87-A92660775D28">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>B7B4BB65-9184-3268-AC16-9FBF60D1342F</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="7C323462-AAE2-EF45-4AF9-A86295BF438E" referredColumn="963A50D3-FCA5-ADAF-B74D-DB593BC86E04"/>
+</associations>
+</Column>
+<Column name="lokacija" id="36F37107-21C1-0B41-416F-DC47EAC2B123">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>AA8930BA-49C2-3A52-F94A-C547ED5A316C</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="A0D85A5E-68DE-34C0-1480-B6746AEA2056" referredColumn="13C2670A-951C-248C-8607-8EE237ED1F05"/>
+</associations>
+</Column>
+<Column name="korisnik" id="5527E1AB-2E81-D3FA-CD62-5F9C6D488B31">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D8C7F21D-9B3F-9EBE-B59A-927849BE2ED6</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="E9624D56-86AE-AB52-4930-34F3EE14ED06" referredColumn="DD97AA85-8049-0FFC-1D03-B1A58446C26F"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="C50308C9-A378-011F-15E4-A8D3D3A90A6A" name="Posmatranje_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>ABE52355-9D35-F60D-B864-444A1A34DB7D</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7117D2D0-100D-D000-D541-68E19EB71DD9"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="AB6FD4F2-0DFC-50F1-EFCE-01CCFCD28BB0" name="Posmatranje_UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>2F49E4B8-E5FC-4046-8E24-8EF9096E11C6</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5527E1AB-2E81-D3FA-CD62-5F9C6D488B31"/>
+<colUsage columnID="B545042B-50FD-BD94-3AEF-07FFEF1214EA"/>
+<colUsage columnID="9EFFC86C-1076-E7C0-F8A1-FFC64CA29D74"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="97FC1BD1-C37B-DE42-97FC-8C6A7828349B" name="Posmatranje_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>A582FD17-DFA3-0CC9-F827-16EB98B55C3E</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="36F37107-21C1-0B41-416F-DC47EAC2B123"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C01EC37B-10C6-C7C2-8DEC-218DBBB839A5" name="Posmatranje_FKv2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>FC12F959-148D-8865-1B6F-D97E68DD3304</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5527E1AB-2E81-D3FA-CD62-5F9C6D488B31"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="948E8876-77EE-1136-F2B7-131E7D37A5AE" name="Posmatranje_FKv3">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>145AF8C6-FECC-A00A-DA1D-F24824035B69</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B671EE38-5D94-970F-09C8-E4E7057DAA1A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="4803CA48-E2A9-5072-8F84-ECCB3DD852F4" name="Posmatranje_FKv4">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>251D3466-19A4-5690-5589-B872E47A3D45</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="755BD492-EB40-C32E-2A87-A92660775D28"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

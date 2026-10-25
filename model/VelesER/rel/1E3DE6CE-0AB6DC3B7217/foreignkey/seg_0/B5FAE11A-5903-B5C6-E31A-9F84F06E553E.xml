@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="B5FAE11A-5903-B5C6-E31A-9F84F06E553E" containerWithKeyObject="8844E03E-5E19-0C6B-591A-E048933F8780" localFKIndex="F2082DF4-B378-7AEA-646B-E79A4F5B65EE" name="StandardanKorisnik_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1734CE9B-2A80-4A0D-D0D3-06BB5933CFCA</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<referredTableLongName>Korisnik</referredTableLongName>
+<arc>6CDAA0E5-D0EA-A6B2-83BB-DAF295461BF0</arc>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>55AE53BE-16FF-4C0C-EF1E-49232332BE24</referredTableID>
+<keyObject>1C90D8C8-1241-E063-19E2-F058108B3247</keyObject>
+<referredKeyID>1C90D8C8-1241-E063-19E2-F058108B3247</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>email</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<discriminatorValue>StandardanKorisnik</discriminatorValue>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

@@ -1,0 +1,1863 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  width="2135" height="1222">
+<defs id="dmw_defs" >
+<svg id="fk_sym" viewBox="0 0 48.665 48.665" style="enable-background:new 0 0 48.665 48.665;" >
+<g>
+<path d="M40.332,31.592c-2.377,0-4.515,1-6.033,2.598l-17.737-8.686c0.061-0.406,0.103-0.82,0.103-1.246    c0-0.414-0.04-0.818-0.098-1.215l17.711-8.589c1.519,1.609,3.666,2.619,6.054,2.619c4.603,0,8.333-3.731,8.333-8.333    c0-4.603-3.73-8.333-8.333-8.333s-8.333,3.73-8.333,8.333c0,0.414,0.04,0.817,0.098,1.215l-17.709,8.589    c-1.519-1.609-3.666-2.619-6.054-2.619C3.73,15.925,0,19.656,0,24.258c0,4.603,3.73,8.333,8.333,8.333    c2.377,0,4.515-1,6.033-2.596l17.736,8.685c-0.062,0.406-0.104,0.82-0.104,1.245c0,4.604,3.73,8.333,8.333,8.333    s8.333-3.729,8.333-8.333C48.665,35.322,44.935,31.592,40.332,31.592z" fill="#13bf3b"/>
+</g>
+</svg>
+<svg id="pk_sym" viewBox="0 0 480.509 480.509" style="enable-background:new 0 0 480.509 480.509;" >
+<g>
+<path d="M418.119,331.046c4.094,4.374,7.766,8.186,10.996,11.416c3.237,3.238,6.714,6.376,10.427,9.422   c3.71,3.042,6.427,4.568,8.135,4.568c3.241,0,9.517-4.661,18.843-13.99c9.328-9.321,13.989-15.604,13.989-18.842   c0-1.523-2.714-5.421-8.138-11.704c-5.421-6.276-12.364-13.702-20.838-22.271c-8.473-8.565-16.703-16.744-24.694-24.55   c-8.001-7.81-15.8-15.373-23.417-22.703c-7.611-7.327-11.992-11.56-13.135-12.703c-1.902-1.902-4.093-2.853-6.563-2.853   c-3.237,0-9.521,4.661-18.843,13.988c-9.328,9.322-13.989,15.605-13.989,18.843c0,1.711,1.522,4.421,4.568,8.138   c3.046,3.71,6.188,7.187,9.421,10.424c3.23,3.23,7.047,6.899,11.42,10.992c4.377,4.093,6.848,6.423,7.423,6.995l-27.408,27.404   L254.954,222.268c24.94-33.498,37.408-68.236,37.408-104.211c0-31.024-9.761-56.293-29.263-75.801   c-19.512-19.511-44.778-29.265-75.805-29.265c-30.454,0-60.244,9.042-89.363,27.119c-29.121,18.083-52.727,41.686-70.808,70.808   C9.042,140.038,0,169.828,0,200.28c0,31.029,9.753,56.286,29.265,75.803c19.511,19.517,44.777,29.27,75.801,29.27   c35.976,0,70.71-12.467,104.212-37.407l191.574,191.579c5.332,5.328,11.796,7.994,19.417,7.994c7.991,0,15.704-3.72,23.12-11.14   c7.426-7.426,11.143-15.129,11.143-23.127c0-7.617-2.666-14.092-7.994-19.417l-62.811-62.811l27.405-27.404   C411.699,324.195,414.033,326.666,418.119,331.046z M221.556,161.458c-10.656,10.657-23.601,15.987-38.828,15.987   c-7.996,0-15.896-1.812-23.7-5.43c3.617,7.808,5.426,15.706,5.426,23.7c0,15.229-5.327,28.171-15.987,38.828   c-10.66,10.655-23.606,15.986-38.831,15.986c-15.227,0-28.168-5.325-38.828-15.986c-10.657-10.657-15.987-23.599-15.987-38.828   c0-15.227,5.327-28.171,15.987-38.828C81.464,146.23,94.409,140.9,109.636,140.9c7.992,0,15.893,1.809,23.695,5.424   c-3.616-7.804-5.424-15.706-5.424-23.699c0-15.227,5.327-28.171,15.987-38.828c10.66-10.657,23.604-15.987,38.831-15.987   c15.227,0,28.171,5.327,38.828,15.987c10.657,10.66,15.987,23.601,15.987,38.828C237.539,137.852,232.209,150.797,221.556,161.458z   " fill="#ff8345"/>
+</g>
+</svg>
+<svg id="uk_sym" viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" >
+<g>
+	<polygon points="236.99,11.41 0,246.348 236.99,478.678 236.99,350.609 129.864,245 236.99,139.391  " fill="#0064fb"/>
+<polygon points="253.01,478.59 490,243.651 253.01,11.322 253.01,139.391 360.136,245 253.01,350.609  " fill="#0064fb"/>
+</g>
+</svg>
+<svg id="link_sym" viewBox="0 0 1000 900" style="enable-background:new 0 0 1000 900;" >
+<g>
+<path fill="black" d="M660.224 422.656c6.976 16.192-0.512 35.008-16.768 42.048-16.128 6.976-34.944-0.448-41.984-16.768-8.448-19.776-20.736-37.696-36.224-53.248-64.64-64.64-177.344-64.64-241.92 0l-145.216 145.28c-66.688 66.688-66.688 175.232 0 241.984 66.688 66.688 175.104 66.752 241.92 0l92.8-92.864c12.48-12.48 32.768-12.48 45.248 0s12.48 32.768 0 45.248l-92.8 92.864c-91.648 91.648-240.832 91.52-332.416 0-91.712-91.648-91.712-240.832 0-332.48l145.216-145.28c44.352-44.416 103.424-68.864 166.272-68.864s121.792 24.448 166.208 68.864c21.248 21.312 38.016 45.952 49.664 73.216zM891.136 401.344l-145.216 145.216c-88.768 88.832-243.712 88.832-332.416 0-21.312-21.312-38.080-45.952-49.728-73.216-7.040-16.256 0.448-35.072 16.704-42.048 16.064-6.784 35.008 0.512 41.984 16.768 8.512 19.776 20.8 37.696 36.288 53.248 64.64 64.64 177.344 64.64 241.92 0l145.216-145.216c66.688-66.688 66.688-175.232 0-241.984-66.752-66.624-175.168-66.688-241.92 0l-92.8 92.864c-12.48 12.48-32.768 12.48-45.248 0s-12.48-32.768 0-45.248l92.8-92.864c45.824-45.824 105.984-68.736 166.208-68.736s120.448 22.912 166.272 68.736c91.584 91.648 91.584 240.768-0.064 332.48z" />
+</g>
+</svg>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath16_0_">
+<rect x="0" y="0" width="230" height="270" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath13_0_">
+<rect x="0" y="0" width="191" height="130" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath22_0_">
+<rect x="0" y="0" width="176" height="54" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath7_0_">
+<rect x="0" y="0" width="220" height="130" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath18_0_">
+<rect x="0" y="0" width="182" height="102" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath5_0_">
+<rect x="0" y="0" width="221" height="116" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath19_0_">
+<rect x="0" y="0" width="138" height="54" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath8_0_">
+<rect x="0" y="0" width="185" height="102" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath20_0_">
+<rect x="0" y="0" width="187" height="102" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath11_0_">
+<rect x="0" y="0" width="218" height="130" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath24_0_">
+<rect x="0" y="0" width="167" height="74" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath10_0_">
+<rect x="0" y="0" width="174" height="88" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath9_0_">
+<rect x="0" y="0" width="238" height="130" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath21_0_">
+<rect x="0" y="0" width="216" height="116" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath25_0_">
+<rect x="0" y="0" width="204" height="144" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3_0_">
+<rect x="0" y="0" width="208" height="102" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath23_0_">
+<rect x="0" y="0" width="312" height="158" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath17_0_">
+<rect x="0" y="0" width="216" height="130" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath14_0_">
+<rect x="0" y="0" width="215" height="102" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2_0_">
+<rect x="0" y="0" width="224" height="116" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath4_0_">
+<rect x="0" y="0" width="223" height="82" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath15_0_">
+<rect x="0" y="0" width="217" height="172" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath12_0_">
+<rect x="0" y="0" width="173" height="40" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath6_0_">
+<rect x="0" y="0" width="228" height="130" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath1_0_">
+<rect x="0" y="0" width="221" height="130" />
+</clipPath>
+</defs>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M324 509 L324 418" />
+<path stroke-dasharray="none" d=" M318.0 509.0 L324.0 497.0 L330.0 509.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="324.0" cy="488.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M330.0 424.0 L318.0 424.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="324.0" cy="430.5999994277954" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M742 771 L742 1025" />
+<path stroke-dasharray="none" d=" M748.0 771.0 L742.0 783.0 L736.0 771.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="742.0" cy="792.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M736.0 1025.0 L742.0 1013.0 L748.0 1025.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="742.0" cy="1004.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M620 501 L620 439" />
+<path stroke-dasharray="none" d=" M614.0 501.0 L620.0 489.0 L626.0 501.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="620.0" cy="480.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M626.0 445.0 L614.0 445.0 M626.0 450.3999996185303 L614.0 450.3999996185303" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M849 274 L849 183" />
+<path stroke-dasharray="none" d=" M843.0 274.0 L849.0 262.0 L855.0 274.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="849.0" cy="253.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M855.0 189.0 L843.0 189.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="849.0" cy="195.5999994277954" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M824 765 L1117 765" />
+<path stroke-dasharray="none" d=" M824.0 759.0 L836.0 765.0 L824.0 771.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="845.0" cy="765.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M1117.0 771.0 L1105.0 765.0 L1117.0 759.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1096.0" cy="765.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M594 725 L488 725" />
+<path stroke-dasharray="none" d=" M594.0 731.0 L582.0 725.0 L594.0 719.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="573.0" cy="725.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M494.0 719.0 L494.0 731.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="500.5999994277954" cy="725.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1615 993 L1615 1039" />
+<path stroke-dasharray="none" d=" M1621.0 993.0 L1615.0 1005.0 L1609.0 993.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1615.0" cy="1014.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1609.0 1033.0 L1621.0 1033.0 M1609.0 1027.6000003814697 L1621.0 1027.6000003814697" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M559 295 L559 188" />
+<path stroke-dasharray="none" d=" M553.0 295.0 L559.0 283.0 L565.0 295.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="559.0" cy="274.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M565.0 194.0 L553.0 194.0 M565.0 199.39999961853027 L553.0 199.39999961853027" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M797 1108 L1050 1108" />
+<path stroke-dasharray="none" d=" M797.0 1102.0 L809.0 1108.0 L797.0 1114.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="818.0" cy="1108.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1050.0 1114.0 L1038.0 1108.0 L1050.0 1102.0 M1037.4000005722046 1114.0 L1037.4000005722046 1102.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1519 993 L1519 1034" />
+<path stroke-dasharray="none" d=" M1525.0 993.0 L1519.0 1005.0 L1513.0 993.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1519.0" cy="1014.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1513.0 1028.0 L1525.0 1028.0 M1513.0 1022.6000003814697 L1525.0 1022.6000003814697" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1456 783 L1338 783" />
+<path stroke-dasharray="none" d=" M1456.0 789.0 L1444.0 783.0 L1456.0 777.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1435.0" cy="783.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1344.0 777.0 L1344.0 789.0 M1349.3999996185303 777.0 L1349.3999996185303 789.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M804 501 L804 404" />
+<path stroke-dasharray="none" d=" M798.0 501.0 L804.0 489.0 L810.0 501.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="804.0" cy="480.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M810.0 410.0 L798.0 410.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="804.0" cy="416.5999994277954" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1567 863 L1567 803" />
+<path stroke-dasharray="none" d="M1561.0 857.0 L1573.0 857.0 M1561.0 851.6000003814697 L1573.0 851.6000003814697" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M1573.0 803.0 L1567.0 815.0 L1561.0 803.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1567.0" cy="824.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M974 274 L974 181" />
+<path stroke-dasharray="none" d=" M968.0 274.0 L974.0 262.0 L980.0 274.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="974.0" cy="253.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M980.0 187.0 L968.0 187.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="974.0" cy="193.5999994277954" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M185 580 L231 580" />
+<path stroke-dasharray="none" d="M191.0 574.0 L191.0 586.0 M196.39999961853027 574.0 L196.39999961853027 586.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M231.0 586.0 L219.0 580.0 L231.0 574.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="210.0" cy="580.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M594 573 L469 573" />
+<path stroke-dasharray="none" d="M588.0 579.0 L588.0 567.0 M582.6000003814697 579.0 L582.6000003814697 567.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M469.0 567.0 L481.0 573.0 L469.0 579.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="490.0" cy="573.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M439 295 L439 190" />
+<path stroke-dasharray="none" d=" M433.0 295.0 L439.0 283.0 L445.0 295.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="439.0" cy="274.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M445.0 196.0 L433.0 196.0 M445.0 201.39999961853027 L433.0 201.39999961853027" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M824 508 L1125 508" />
+<path stroke-dasharray="none" d=" M824.0 502.0 L836.0 508.0 L824.0 514.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="845.0" cy="508.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M1125.0 514.0 L1113.0 508.0 L1125.0 502.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1104.0" cy="508.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath16_0_)" transform="translate(594,501)" >
+<rect x="0" y="0" width="229" height="269" />
+<text id="0E3C5ECD-6DBB23E71894" x="83" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Posmatranje
+</text>
+<line x1="0" y1="18" x2="228" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+posmatranjeID
+</text>
+<text x="128" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+aktivnostKorisnika
+</text>
+<text x="128" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+aktivnostZivotinje
+</text>
+<text x="128" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+beleska
+</text>
+<text x="128" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (256)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+brojJedinki
+</text>
+<text x="128" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="102" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datum
+</text>
+<text x="128" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="116" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+vreme
+</text>
+<text x="128" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tipPosmatranja
+</text>
+<text x="128" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+oprema
+</text>
+<text x="128" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+starost
+</text>
+<text x="128" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+pol
+</text>
+<text x="128" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+zivotinja
+</text>
+<text x="128" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+meteorologija
+</text>
+<text x="128" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="214" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+lokacija
+</text>
+<text x="128" y="214" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="228" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="228" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+UF
+</text>
+<text x="26" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+korisnik
+</text>
+<text x="128" y="228" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<line x1="0" y1="234" x2="228" y2="234" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="241" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="248" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Posmatranje PK (posmatranjeID)
+</text>
+<use xlink:href="#uk_sym" x="4" y="255" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="262" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Posmatranje UQ (korisnik, datum, vreme)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath13_0_)" transform="translate(1480,863)" >
+<rect x="0" y="0" width="190" height="129" />
+<text id="27AD657D-D53109C6FA8A" x="75" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Nagrada
+</text>
+<line x1="0" y1="18" x2="189" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+nagradaID
+</text>
+<text x="95" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+naziv
+</text>
+<text x="95" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+vrednost
+</text>
+<text x="95" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+opis
+</text>
+<text x="95" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+medalja
+</text>
+<text x="95" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+trofej
+</text>
+<text x="95" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<line x1="0" y1="108" x2="189" y2="108" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="115" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="122" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Nagrada PK (nagradaID)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath22_0_)" transform="translate(1840,422)" >
+<rect x="0" y="0" width="175" height="53" />
+<text id="2E925FF4-316E88D0A9A7" x="69" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Student
+</text>
+<line x1="0" y1="18" x2="174" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+indeks
+</text>
+<text x="80" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+fakultet
+</text>
+<text x="80" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath7_0_)" transform="translate(779,274)" >
+<rect x="0" y="0" width="219" height="129" />
+<text id="3985EC32-EF38CA2281AE" x="88" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Lokacija
+</text>
+<line x1="0" y1="18" x2="218" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+lokacijaID
+</text>
+<text x="102" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+koordinataX
+</text>
+<text x="102" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (9,6)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+koordinataY
+</text>
+<text x="102" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (9,6)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+region
+</text>
+<text x="102" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+staniste
+</text>
+<text x="102" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<line x1="0" y1="94" x2="218" y2="94" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="101" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="108" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Lokacija PK (lokacijaID)
+</text>
+<use xlink:href="#uk_sym" x="4" y="115" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="122" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Lokacija UQ (koordinataX, koordinataY)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath18_0_)" transform="translate(746,81)" >
+<rect x="0" y="0" width="181" height="101" />
+<text id="40882F0E-26142A25B6CD" x="74" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Region
+</text>
+<line x1="0" y1="18" x2="180" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+regionID
+</text>
+<text x="86" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+naziv
+</text>
+<text x="86" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tip
+</text>
+<text x="86" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+oblast
+</text>
+<text x="86" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<line x1="0" y1="80" x2="180" y2="80" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Region PK (regionID)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath5_0_)" transform="translate(1117,756)" >
+<rect x="0" y="0" width="220" height="115" />
+<text id="45E40E33-B339FEA1A189" x="94" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Izazov
+</text>
+<line x1="0" y1="18" x2="219" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+izazovID
+</text>
+<text x="119" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+naziv
+</text>
+<text x="119" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+opis
+</text>
+<text x="119" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (512)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datumPocetka
+</text>
+<text x="119" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datumZavrsetka
+</text>
+<text x="119" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<line x1="0" y1="94" x2="219" y2="94" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="101" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="108" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Izazov PK (izazovID)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath8_0_)" transform="translate(0,528)" >
+<rect x="0" y="0" width="184" height="101" />
+<text id="5103EA98-F50A70C96F2F" x="79" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Mana
+</text>
+<line x1="0" y1="18" x2="183" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+manaID
+</text>
+<text x="83" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+naziv
+</text>
+<text x="83" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tip
+</text>
+<text x="83" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+opis
+</text>
+<text x="83" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (256)
+</text>
+<line x1="0" y1="80" x2="183" y2="80" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Mana PK (manaID)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath20_0_)" transform="translate(934,79)" >
+<rect x="0" y="0" width="186" height="101" />
+<text id="53A4F0F7-51DC9278854C" x="73" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Staniste
+</text>
+<line x1="0" y1="18" x2="185" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+stanisteID
+</text>
+<text x="91" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+naziv
+</text>
+<text x="91" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tip
+</text>
+<text x="91" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<line x1="0" y1="66" x2="185" y2="66" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="73" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="80" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Staniste PK (stanisteID)
+</text>
+<use xlink:href="#uk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Staniste UQ (naziv)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath11_0_)" transform="translate(270,676)" >
+<rect x="0" y="0" width="217" height="129" />
+<text id="62F25F6A-0D90FFC6FC4B" x="75" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Meteorologija
+</text>
+<line x1="0" y1="18" x2="216" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+meteorologijaID
+</text>
+<text x="122" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+temperatura
+</text>
+<text x="122" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (6,2)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+vlaznost
+</text>
+<text x="122" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (3)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+oblacnost
+</text>
+<text x="122" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (3)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+padavine
+</text>
+<text x="122" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+vetar
+</text>
+<text x="122" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5,2)
+</text>
+<line x1="0" y1="108" x2="216" y2="108" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="115" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="122" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Vreme PK (meteorologijaID)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath24_0_)" transform="translate(1576,1039)" >
+<rect x="0" y="0" width="166" height="73" />
+<text id="6B652BF3-B01B997D11D5" x="69" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Trofej
+</text>
+<line x1="0" y1="18" x2="165" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+trofejID
+</text>
+<text x="92" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tipTrofeja
+</text>
+<text x="92" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<line x1="0" y1="52" x2="165" y2="52" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="59" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="66" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Trofej PK (trofejID)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath10_0_)" transform="translate(1386,1034)" >
+<rect x="0" y="0" width="173" height="87" />
+<text id="6FAFFFFF-0895B2CF88B5" x="67" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Medalja
+</text>
+<line x1="0" y1="18" x2="172" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+medaljaID
+</text>
+<text x="97" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tipMedalje
+</text>
+<text x="97" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ukupanBroj
+</text>
+<text x="97" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<line x1="0" y1="66" x2="172" y2="66" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="73" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="80" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Medalja PK (medaljaID)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath9_0_)" transform="translate(231,509)" >
+<rect x="0" y="0" width="237" height="129" />
+<text id="84642B1D-DF7BE64A1048" x="74" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ManePosmatranja
+</text>
+<line x1="0" y1="18" x2="236" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tezinaMane
+</text>
+<text x="131" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+napomena
+</text>
+<text x="131" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (128)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+procenaOpasnosti
+</text>
+<text x="131" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="74" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+mana
+</text>
+<text x="131" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="88" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+posmatranje
+</text>
+<text x="131" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+intervencija
+</text>
+<text x="131" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<line x1="0" y1="108" x2="236" y2="108" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="115" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="122" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ManePosmatranja PK (mana, posmatranje)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath21_0_)" transform="translate(473,72)" >
+<rect x="0" y="0" width="215" height="115" />
+<text id="8FFA8701-810438128014" x="76" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+StatusZastite
+</text>
+<line x1="0" y1="18" x2="214" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ugrozenostID
+</text>
+<text x="114" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+nazivStatusa
+</text>
+<text x="114" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+oznakaStatusa
+</text>
+<text x="114" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+opis
+</text>
+<text x="114" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (128)
+</text>
+<line x1="0" y1="80" x2="214" y2="80" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Zastita PK (ugrozenostID)
+</text>
+<use xlink:href="#uk_sym" x="4" y="101" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="108" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Zastita UQ (oznakaStatusa)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath25_0_)" transform="translate(430,295)" >
+<rect x="0" y="0" width="203" height="143" />
+<text id="A27332F2-0F4390D4355E" x="67" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+VrstaZivotinje
+</text>
+<line x1="0" y1="18" x2="202" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+zivotinjaID
+</text>
+<text x="104" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+narodniNaziv
+</text>
+<text x="104" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+latinskiNaziv
+</text>
+<text x="104" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tipAktivnosti
+</text>
+<text x="104" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+taksonomija
+</text>
+<text x="104" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+statusZastite
+</text>
+<text x="104" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<line x1="0" y1="108" x2="202" y2="108" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="115" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="122" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Zivotinja PK (zivotinjaID)
+</text>
+<use xlink:href="#uk_sym" x="4" y="129" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="136" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Zivotinja UQ (latinskiNaziv)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath3_0_)" transform="translate(150,316)" >
+<rect x="0" y="0" width="207" height="101" />
+<text id="B2B23BC6-A2849FF01BC1" x="74" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Intervencija
+</text>
+<line x1="0" y1="18" x2="206" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+intervencijaID
+</text>
+<text x="112" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+vrsta
+</text>
+<text x="112" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+opis
+</text>
+<text x="112" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<line x1="0" y1="66" x2="206" y2="66" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="73" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="80" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Intervencija PK (intervencijaID)
+</text>
+<use xlink:href="#uk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Intervencija UQ (vrsta)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath17_0_)" transform="translate(581,1025)" >
+<rect x="0" y="0" width="215" height="129" />
+<text id="BA4726BE-57B14A0F3500" x="87" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Projekat
+</text>
+<line x1="0" y1="18" x2="214" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+projekatID
+</text>
+<text x="114" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+naziv
+</text>
+<text x="114" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datumPocetka
+</text>
+<text x="114" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datumKraja
+</text>
+<text x="114" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+opis
+</text>
+<text x="114" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (256)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+status
+</text>
+<text x="114" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<line x1="0" y1="108" x2="214" y2="108" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="115" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="122" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Projekat PK (projekatID)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath14_0_)" transform="translate(1456,701)" >
+<rect x="0" y="0" width="214" height="101" />
+<text id="C6315969-547768E35DC5" x="63" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+NagradeKorisnika
+</text>
+<line x1="0" y1="18" x2="213" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datumDodele
+</text>
+<text x="110" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+email
+</text>
+<text x="110" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+nagrada
+</text>
+<text x="110" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+izazov
+</text>
+<text x="110" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<line x1="0" y1="80" x2="213" y2="80" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NagradeKorisnika PK (email, nagrada)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath2_0_)" transform="translate(1365,367)" >
+<rect x="0" y="0" width="223" height="115" />
+<text id="C6C4AC50-436791B6D063" x="92" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Dozvola
+</text>
+<line x1="0" y1="18" x2="222" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datumIzdavanja
+</text>
+<text x="122" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datumIsteka
+</text>
+<text x="122" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tip
+</text>
+<text x="122" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="74" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+korisnik
+</text>
+<text x="122" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+beleska
+</text>
+<text x="122" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (128)
+</text>
+<line x1="0" y1="94" x2="222" y2="94" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="101" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="108" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Dozvola PK (korisnik, tip)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath4_0_)" transform="translate(1785,1104)" >
+<rect x="0" y="0" width="222" height="81" />
+<text id="D4230493-7238BAC294D3" x="87" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Istrazivac
+</text>
+<line x1="0" y1="18" x2="221" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+zvanje
+</text>
+<text x="127" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+oblastIstrazivanja
+</text>
+<text x="127" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+organizacija
+</text>
+<text x="127" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+mentor
+</text>
+<text x="127" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath15_0_)" transform="translate(1050,998)" >
+<rect x="0" y="0" width="216" height="171" />
+<text id="D59DAE3D-80E50753938F" x="77" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Organizacija
+</text>
+<line x1="0" y1="18" x2="215" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+organizacijaID
+</text>
+<text x="115" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+naziv
+</text>
+<text x="115" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tip
+</text>
+<text x="115" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+opis
+</text>
+<text x="115" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (256)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+adresa
+</text>
+<text x="115" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+telefon
+</text>
+<text x="115" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+email
+</text>
+<text x="115" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+link
+</text>
+<text x="115" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (256)
+</text>
+<line x1="0" y1="136" x2="215" y2="136" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="143" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="150" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Organizacija PK (organizacijaID)
+</text>
+<use xlink:href="#uk_sym" x="4" y="157" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="164" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Organizacija UQ (naziv, tip)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath12_0_)" transform="translate(1962,603)" >
+<rect x="0" y="0" width="172" height="39" />
+<text id="E0E72B72-3BF082F6E043" x="61" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Moderator
+</text>
+<line x1="0" y1="18" x2="171" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+nivoPrivilegija
+</text>
+<text x="114" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath6_0_)" transform="translate(1655,520)" >
+<rect x="0" y="0" width="227" height="129" />
+<text id="E655F6D9-9E34E108A95D" x="93" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Korisnik
+</text>
+<line x1="0" y1="18" x2="226" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+email
+</text>
+<text x="132" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ime
+</text>
+<text x="132" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+prezime
+</text>
+<text x="132" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+lozinka
+</text>
+<text x="132" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (16)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datumRegistracije
+</text>
+<text x="132" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tipKorisnika
+</text>
+<text x="132" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2
+</text>
+<line x1="0" y1="108" x2="226" y2="108" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="115" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="122" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Korisnik PK (email)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath1_0_)" transform="translate(1125,382)" >
+<rect x="0" y="0" width="220" height="129" />
+<text id="ED7DA6A8-75AA0685D72E" x="95" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Album
+</text>
+<line x1="0" y1="18" x2="219" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+albumID
+</text>
+<text x="119" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+naziv
+</text>
+<text x="119" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+opis
+</text>
+<text x="119" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (256)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+datumKreiranja
+</text>
+<text x="119" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+privatnost
+</text>
+<text x="119" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CHAR (1)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="102" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+korisnik
+</text>
+<text x="119" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (32)
+</text>
+<line x1="0" y1="108" x2="219" y2="108" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="115" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="122" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Album PK (albumID, korisnik)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath23_0_)" transform="translate(142,32)" >
+<rect x="0" y="0" width="311" height="157" />
+<text id="B98660F3-65E891AF33FB" x="124" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Taksonomija
+</text>
+<line x1="0" y1="18" x2="310" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+taksonomijaID
+</text>
+<text x="112" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+carstvo
+</text>
+<text x="112" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+razdeo
+</text>
+<text x="112" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="74" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+klasa
+</text>
+<text x="112" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="88" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+red
+</text>
+<text x="112" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="102" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+porodica
+</text>
+<text x="112" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="116" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+rod
+</text>
+<text x="112" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (64)
+</text>
+<line x1="0" y1="122" x2="310" y2="122" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="129" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="136" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Taksonomija PK (taksonomijaID)
+</text>
+<use xlink:href="#uk_sym" x="4" y="143" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="150" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Taksonomija UQ (carstvo, razdeo, klasa, red, porodica, rod)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath19_0_)" transform="translate(1329,546)" >
+<rect x="0" y="0" width="137" height="53" />
+<text id="46A09529-89C6ABFC46E5" x="20" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+StandardanKorisnik
+</text>
+<line x1="0" y1="18" x2="136" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+rang
+</text>
+<text x="79" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INTEGER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+znacka
+</text>
+<text x="79" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BLOB
+</text>
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1655 573 L1467 573" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1851 650 L1851 1104" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1879 520 L1879 476" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1461 600 L1461 701" />
+<path stroke-dasharray="none" d="M1467.0 606.0 L1455.0 606.0 M1467.0 611.3999996185303 L1455.0 611.3999996185303" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M1455.0 701.0 L1461.0 689.0 L1467.0 701.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1461.0" cy="680.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1333 756 L1333 600" />
+<path stroke-dasharray="none" d=" M1327.0 756.0 L1333.0 744.0 L1339.0 756.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1333.0" cy="735.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M1339.0 600.0 L1333.0 612.0 L1327.0 600.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1333.0" cy="621.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1883 626 L1962 626" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1337 512 L1337 546" />
+<path stroke-dasharray="none" d=" M1343.0 512.0 L1337.0 524.0 L1331.0 512.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1337.0" cy="533.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1331.0 540.0 L1343.0 540.0 M1331.0 534.6000003814697 L1343.0 534.6000003814697" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1785 1138 L1267 1138" />
+<path stroke-dasharray="none" d=" M1785.0 1144.0 L1773.0 1138.0 L1785.0 1132.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1764.0" cy="1138.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1273.0 1132.0 L1273.0 1144.0 M1278.3999996185303 1132.0 L1278.3999996185303 1144.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M2008 1158 L2014 1158 L2014 1221 L1905 1221 L1905 1186" />
+<path stroke-dasharray="none" d="M2014.0 1152.0 L2014.0 1164.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="2020.5999994277954" cy="1158.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M1911.0 1186.0 L1905.0 1198.0 L1899.0 1186.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1905.0" cy="1207.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M824 573 L1329 573" />
+<path stroke-dasharray="none" d=" M824.0 567.0 L836.0 573.0 L824.0 579.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="845.0" cy="573.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1323.0 579.0 L1323.0 567.0 M1317.6000003814697 579.0 L1317.6000003814697 567.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1416 546 L1416 483" />
+<path stroke-dasharray="none" d="M1410.0 540.0 L1422.0 540.0 M1410.0 534.6000003814697 L1422.0 534.6000003814697" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d=" M1422.0 483.0 L1416.0 495.0 L1410.0 483.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<circle  cx="1416.0" cy="504.0" r="5.4" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g fill="none" stroke="rgb(0,0,0)" transform="translate(1460.0,843.0)" >
+<circle stroke-dasharray="none" cx="154.0" cy="167.0" stroke="rgb(0,0,0)" r="2" fill="rgb(0,0,0)" stroke-width="1" />
+<circle stroke-dasharray="none" cx="58.0" cy="167.0" stroke="rgb(0,0,0)" r="2" fill="rgb(0,0,0)" stroke-width="1" />
+<path d=" M175.0 158.0 C 175.0 158.0 175.0 168.0 165.0 168.0 L49.0 168.0 C 49.0 168.0 39.0 168.0 39.0 158.0"/>
+</g>
+
+</svg>

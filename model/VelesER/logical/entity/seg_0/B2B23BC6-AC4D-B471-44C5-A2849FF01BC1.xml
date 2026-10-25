@@ -1,0 +1,83 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="B2B23BC6-AC4D-B471-44C5-A2849FF01BC1" name="Intervencija">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 10:33:16 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="intervencijaID" id="AF6CDF8F-87CA-B1F2-99B9-F6AB649A6D3F">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 10:33:30 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="vrsta" id="76C32DB8-2C08-3643-42AF-6FC99A4C18C1">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 10:34:00 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>0B3E6226-EEC7-CDD2-90A8-9011088F115C</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="opis" id="7720D2B2-E658-D453-D2EF-24FF131A79C4">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 10:34:28 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="1BE71BE2-5231-266B-9456-C4DCDDC9A2F8" name="Intervencija PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 10:34:55 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>AF6CDF8F-87CA-B1F2-99B9-F6AB649A6D3F</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="5141412E-A2F9-AF64-CD92-CCB87BB16162" name="Intervencija UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 10:38:58 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<newElementsIDs>76C32DB8-2C08-3643-42AF-6FC99A4C18C1</newElementsIDs>
+<usedAttributes>
+<attributeRef>76C32DB8-2C08-3643-42AF-6FC99A4C18C1</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="PripadaRegionu" directorySegmentName="seg_0" id="179681AC-1ECD-8F26-3F61-46B977CBDDFE">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 20:52:06 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<targetPk>987031F7-7DF1-522C-20BA-A64DA0C2808D</targetPk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>3985EC32-2E4E-79B4-1434-EF38CA2281AE</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>40882F0E-BB3F-366C-BDF1-26142A25B6CD</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

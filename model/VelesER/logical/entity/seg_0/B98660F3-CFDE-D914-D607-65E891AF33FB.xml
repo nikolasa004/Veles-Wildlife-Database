@@ -1,0 +1,140 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="B98660F3-CFDE-D914-D607-65E891AF33FB" name="Taksonomija">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:30:31 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="taksonomijaID" id="66502972-7B9A-6790-8301-633D14D452E7">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:36:03 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="carstvo" id="2AF77D98-57FC-C774-FD73-018020C4468B">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:30:48 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="razdeo" id="3AC779DA-9B9D-7A4A-5A99-935C58C92E1D">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:31:07 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="klasa" id="83ACFDD0-D3E3-27A0-DBA4-4F0BF108AB80">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:31:35 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="red" id="CEC5231B-9C72-DA7A-EA7D-20F54B1CE64F">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:32:23 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="porodica" id="3538B3F1-86F2-AA9A-7E8E-DC4ADA4D8BC5">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:33:21 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="rod" id="FF480CEB-2101-A6AC-0FAA-3DE6F6D09CFE">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:33:38 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="9400A59D-8717-EEE5-EA80-5988A8B83EBC" name="Taksonomija PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:36:55 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>66502972-7B9A-6790-8301-633D14D452E7</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="123E768A-C659-AC99-BAA1-C3F642B53A08" name="Taksonomija UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 07:10:05 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<newElementsIDs>2AF77D98-57FC-C774-FD73-018020C4468B,3AC779DA-9B9D-7A4A-5A99-935C58C92E1D,83ACFDD0-D3E3-27A0-DBA4-4F0BF108AB80,CEC5231B-9C72-DA7A-EA7D-20F54B1CE64F,3538B3F1-86F2-AA9A-7E8E-DC4ADA4D8BC5,FF480CEB-2101-A6AC-0FAA-3DE6F6D09CFE</newElementsIDs>
+<usedAttributes>
+<attributeRef>2AF77D98-57FC-C774-FD73-018020C4468B</attributeRef>
+<attributeRef>3AC779DA-9B9D-7A4A-5A99-935C58C92E1D</attributeRef>
+<attributeRef>83ACFDD0-D3E3-27A0-DBA4-4F0BF108AB80</attributeRef>
+<attributeRef>CEC5231B-9C72-DA7A-EA7D-20F54B1CE64F</attributeRef>
+<attributeRef>3538B3F1-86F2-AA9A-7E8E-DC4ADA4D8BC5</attributeRef>
+<attributeRef>FF480CEB-2101-A6AC-0FAA-3DE6F6D09CFE</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

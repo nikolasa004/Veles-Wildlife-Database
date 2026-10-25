@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="7284E81D-90A9-6E99-7B7E-2292BB18C73B" containerWithKeyObject="54E24748-1336-7209-2155-9843E0D2568B" localFKIndex="4685FBC8-8DBA-783E-731B-402820870328" name="PosmatranjaIzazova_FKv1">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>17B9307A-FAAB-1668-0BC7-0D8325A7EC1C</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<referredTableLongName>Izazov</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>08A4111D-699F-D895-EB74-73370E4B15F0</referredTableID>
+<keyObject>3C219BC2-1C49-9E9D-22E1-E0CDCD1929E9</keyObject>
+<referredKeyID>3C219BC2-1C49-9E9D-22E1-E0CDCD1929E9</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>izazovID</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

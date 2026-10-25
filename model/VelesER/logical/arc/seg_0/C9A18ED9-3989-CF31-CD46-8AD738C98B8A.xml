@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Arc class="oracle.dbtools.crest.model.design.logical.Arc" directorySegmentName="seg_0" id="C9A18ED9-3989-CF31-CD46-8AD738C98B8A" name="kategorizacijaNagrada">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 22:25:50 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<entity>27AD657D-858E-725F-FD1D-D53109C6FA8A</entity>
+<relations>
+<relationID>255BF9A1-26A2-1715-5011-27525E0C9898</relationID>
+<relationID>97371CEF-402B-5FDB-48A8-161D9A604F51</relationID>
+</relations>
+</Arc>

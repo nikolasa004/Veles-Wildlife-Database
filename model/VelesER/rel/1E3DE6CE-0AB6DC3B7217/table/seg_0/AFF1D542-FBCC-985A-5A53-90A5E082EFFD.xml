@@ -1,0 +1,63 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="AFF1D542-FBCC-985A-5A53-90A5E082EFFD" name="Moderator">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>E0E72B72-4B23-7819-3C65-3BF082F6E043</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="email" id="D9CD8530-AEC2-0C66-C124-30AED3A6F232">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>3F4F195B-93DD-4E58-8FDA-4EF0D688E476</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="2E8718D3-8D18-C9CE-BC51-6F733D0660A9" referredColumn="457EF534-7069-9411-AD31-66E831C89825"/>
+</associations>
+</Column>
+<Column name="nivoPrivilegija" id="AAB5932C-D059-DCEC-520B-3F02FD149497">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>3ABE3D58-BFA5-C11F-DE75-4D373064F8DA</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="405AC50F-67C7-93FE-30A6-3BBE003E5EFE" name="Moderator_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1D1C0808-1AE6-C233-A264-62596C1DBF03</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D9CD8530-AEC2-0C66-C124-30AED3A6F232"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="4B6F3277-D3F9-C95C-378D-A55BBD51488C" name="Moderator_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>B00F0688-7381-9274-5449-4943A37F9E60</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D9CD8530-AEC2-0C66-C124-30AED3A6F232"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

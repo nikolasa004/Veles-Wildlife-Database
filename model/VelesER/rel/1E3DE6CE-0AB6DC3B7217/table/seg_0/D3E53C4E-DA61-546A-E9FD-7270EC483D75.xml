@@ -1,0 +1,117 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D3E53C4E-DA61-546A-E9FD-7270EC483D75" name="NagradeKorisnika">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>C6315969-E78D-E2BA-C98B-547768E35DC5</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="datumDodele" id="4C2434E6-2577-E26F-7B39-3BC353C1A771">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>291BA16A-F5AF-A270-2876-87A40D84803D</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="email" id="1B360D7F-88CB-29EA-B2A0-59D78649FAB2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>238841D8-EF81-66BF-2D6E-431A3BBCB73F</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="4DFDAEA9-CEA1-79EE-03A1-1DA67E6960FF" referredColumn="DD97AA85-8049-0FFC-1D03-B1A58446C26F"/>
+</associations>
+</Column>
+<Column name="nagrada" id="914D6E8E-BBD5-E4F2-EB0B-97432C376D61">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>9C9E6EC9-F750-AE57-F726-276F79F0292E</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="D44E2ACF-0C76-FFF0-E275-2B4B42200248" referredColumn="36B1E146-A5CF-76BF-4654-F6DEE489DEDA"/>
+</associations>
+</Column>
+<Column name="izazov" id="D8B2C4D7-044A-B0E1-2EE8-0B39917775A4">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>C00669EA-401E-3AB1-4135-8B24DAFC8B40</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="66A0653D-3189-0B07-174A-4D9C25A00FFD" referredColumn="3A23B121-2359-5E6C-20C3-D62E6AE1CF39"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D1F0476F-45DE-8EB4-B273-AFCB6D658F2D" name="NagradeKorisnika_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>030CC406-52A8-9EEC-3D5A-0D1ADC9C546C</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1B360D7F-88CB-29EA-B2A0-59D78649FAB2"/>
+<colUsage columnID="914D6E8E-BBD5-E4F2-EB0B-97432C376D61"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="71C99C00-4F4C-14EF-68E5-8B385AED9974" name="NagradeKorisnika_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>B29A08BA-C8E3-D923-C28E-8C3A742EFF93</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="914D6E8E-BBD5-E4F2-EB0B-97432C376D61"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="7B17B458-8792-A413-40BC-6A8B042391A2" name="NagradeKorisnika_FKv2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>59AAA342-DC01-8EA3-365D-1BB30C4E1C96</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1B360D7F-88CB-29EA-B2A0-59D78649FAB2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="CDF3ADE2-A272-3730-19DC-69873BAA7670" name="NagradeKorisnika_FKv3">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>A3974712-75A0-59EE-08D2-0D628EBC2C3A</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D8B2C4D7-044A-B0E1-2EE8-0B39917775A4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

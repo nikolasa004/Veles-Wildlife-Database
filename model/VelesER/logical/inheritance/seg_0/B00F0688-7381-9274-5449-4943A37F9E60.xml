@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.InheritanceRelation" name="KorisnikISAModerator" directorySegmentName="seg_0" id="B00F0688-7381-9274-5449-4943A37F9E60">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:01:45 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Super Type</nameOnSource>
+<nameOnTarget>Sub Type</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceEntity>E655F6D9-928B-F811-13BE-9E34E108A95D</sourceEntity>
+<targetEntity>E0E72B72-4B23-7819-3C65-3BF082F6E043</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

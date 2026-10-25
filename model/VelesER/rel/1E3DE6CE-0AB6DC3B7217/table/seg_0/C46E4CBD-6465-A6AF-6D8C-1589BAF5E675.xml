@@ -1,0 +1,129 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="C46E4CBD-6465-A6AF-6D8C-1589BAF5E675" name="Lokacija">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>3985EC32-2E4E-79B4-1434-EF38CA2281AE</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="lokacijaID" id="13C2670A-951C-248C-8607-8EE237ED1F05">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>8BA60DD3-A2FE-DC87-9370-17E963CFA006</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="koordinataX" id="07EDA49D-265F-BE9D-1B48-707DC72E4B17">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>F6E71DF5-0118-0C5C-6190-4050E8C9CCCE</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<dataTypeScale>6</dataTypeScale>
+<ownDataTypeParameters>,9,6</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="koordinataY" id="6E8B2579-4D32-A365-A126-4CB7623664E2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>4D7009D5-F7A8-2F6F-D441-7FEA73AD60F9</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT026</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<dataTypeScale>6</dataTypeScale>
+<ownDataTypeParameters>,9,6</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="region" id="28CC9D6A-0EFA-32F6-406A-0C11C22F8EBF">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>4F7BA171-1064-8908-3D4C-72636428A993</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="2F3051EB-FB75-FA34-3BBF-FD86F43F436C" referredColumn="C712B91C-471E-FB72-1ABB-629F6448BCBC"/>
+</associations>
+</Column>
+<Column name="staniste" id="5FCABC50-1513-72F2-5B4F-CD490F8738FA">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1F4365E4-2EAD-BA85-8C09-1DD0408A6ACD</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="330CA993-7F9A-72CE-6EE6-8FC29C368EC1" referredColumn="7F270CF9-081B-1336-67B5-1D375400914D"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="CF39C192-A3B5-CD9D-C629-8541B471A506" name="Lokacija_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>5A6EAD83-1008-55A0-0C63-23584760BB74</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="13C2670A-951C-248C-8607-8EE237ED1F05"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="CC3EA233-373E-6DC4-0ABE-01E0B6BA9723" name="Lokacija_UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D0B7B710-ECF1-1CFA-5641-479B08241542</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="07EDA49D-265F-BE9D-1B48-707DC72E4B17"/>
+<colUsage columnID="6E8B2579-4D32-A365-A126-4CB7623664E2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="33EEE362-6508-0B40-49D4-C1F091CDCEE3" name="Lokacija_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>179681AC-1ECD-8F26-3F61-46B977CBDDFE</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="28CC9D6A-0EFA-32F6-406A-0C11C22F8EBF"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="20E108F2-B55F-3C4D-10CD-E9082AD986F0" name="Lokacija_FKv2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D17C010D-CE0C-F5E8-8A39-4131EA616AA2</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5FCABC50-1513-72F2-5B4F-CD490F8738FA"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

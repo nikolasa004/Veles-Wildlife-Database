@@ -1,0 +1,47 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="PosmatranjaProjekata" directorySegmentName="seg_0" id="012F129B-1E53-EB44-EAE5-32F94DB69415">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:38:53 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>0E3C5ECD-B554-295E-A030-6DBB23E71894</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>BA4726BE-F2DE-180E-540A-57B14A0F3500</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="datumDodavanja" id="4BE61D2F-F88C-BB64-B753-8F302E0FEDEB">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:39:16 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="napomena" id="1F0D205E-0DA1-76A7-1721-62858C567B52">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:39:34 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

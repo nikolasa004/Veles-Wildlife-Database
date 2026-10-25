@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="25B0D5F4-5F8B-A251-930A-A1A21FC608B8" containerWithKeyObject="46B7C7C6-01AC-B165-5FDD-10A3E8A1909A" localFKIndex="25EDFE46-5789-A1B9-AA85-596EDDB5F801" name="Nagrada_FKv2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>255BF9A1-26A2-1715-5011-27525E0C9898</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<referredTableLongName>Trofej</referredTableLongName>
+<arc>FF037457-6221-1A0C-E6A6-665DEBFCED97</arc>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>C5403661-9A26-EA90-03A7-D727B70D19E5</referredTableID>
+<keyObject>C893F7D1-E727-3863-590F-C01ABB7F7F74</keyObject>
+<referredKeyID>C893F7D1-E727-3863-590F-C01ABB7F7F74</referredKeyID>
+<mandatory>false</mandatory>
+<refColNames>trofejID</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

@@ -1,0 +1,12 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKArc class="oracle.dbtools.crest.model.design.relational.FKArc" directorySegmentName="seg_0" id="FF037457-6221-1A0C-E6A6-665DEBFCED97" name="kategorizacijaNagrada">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<mandatory>true</mandatory>
+<table>46B7C7C6-01AC-B165-5FDD-10A3E8A1909A</table>
+<fkeys>
+<fkeyID>25B0D5F4-5F8B-A251-930A-A1A21FC608B8</fkeyID>
+<fkeyID>64891B04-1D0C-4E93-751D-608860A831D6</fkeyID>
+</fkeys>
+</FKArc>

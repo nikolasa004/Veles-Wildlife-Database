@@ -1,0 +1,60 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="PosmatranjaAlbuma" directorySegmentName="seg_0" id="FD9AAED1-0B0D-0181-FD21-F6D222C4EE4F">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 10:53:34 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>0E3C5ECD-B554-295E-A030-6DBB23E71894</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>ED7DA6A8-978C-EE0E-5E59-75AA0685D72E</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<attribute name="redniBroj" id="F39EC4A4-8BE6-3683-6582-536C319CF637">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:00:50 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="datumDodavanja" id="E898A9D4-79FB-D2DF-B221-BCA80A46AC3B">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:01:11 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</attribute>
+<attribute name="komentar" id="977E4F3A-E47B-0319-DF0E-8C57ED924F63">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 11:01:23 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="87728B69-89C8-6357-8742-3CD4664D4EE8" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+</attribute>
+</attributes>
+</Relation>

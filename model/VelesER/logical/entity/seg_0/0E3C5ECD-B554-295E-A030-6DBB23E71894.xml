@@ -1,0 +1,252 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="0E3C5ECD-B554-295E-A030-6DBB23E71894" name="Posmatranje">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:02:11 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="posmatranjeID" id="88DACB73-5A02-8AE8-03D0-76F5B6978927">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:02:25 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="aktivnostKorisnika" id="38F9A139-3B9A-B9C5-0958-264673459F72">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:04:08 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="aktivnostZivotinje" id="FDB041F6-1BB6-77B8-5BDE-14B0F37B98D6">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:04:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="beleska" id="446E3A48-6106-3458-4E33-1EEEC7401A77">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:04:49 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>256</dataTypeSize>
+<ownDataTypeParameters>256,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="brojJedinki" id="404012E1-2C14-8C85-01B5-85EBD6959912">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:05:53 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="datum" id="A2DD869A-15F3-1150-968D-C01745D0B7CC">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:06:27 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="vreme" id="4CC318B0-6067-4E9F-6D29-6F9A2E14F4B1">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:07:23 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="tipPosmatranja" id="56AAC956-809D-82C0-E740-4FA1339B508C">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:06:44 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<domain>CE1467A9-8727-EF67-8186-52AFB02BECDE</domain>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="oprema" id="4E2D62FC-FE10-C5B8-409A-148946BD3D16">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:08:08 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="starost" id="87F48361-6B05-8FED-FEF0-A94DD5642CAC">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:08:29 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<domain>780E3A9C-B68D-9014-4B85-5B3AD7F14007</domain>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="pol" id="D85FA6DD-4E9D-AE03-C1B1-4C38B0252596">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:08:48 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>DB92616E-6655-ACAC-B153-3CDE028732C3</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="zivotinja" id="ABC0AA73-F680-80EE-F075-08FE3DBE6BE2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 21:29:48 UTC</createdTime>
+<generatorID>145AF8C6-FECC-A00A-DA1D-F24824035B69</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<referedAttribute>D85D023B-EEA7-7A28-FF67-50CC0297FF7A</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="meteorologija" id="B7B4BB65-9184-3268-AC16-9FBF60D1342F">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 21:34:49 UTC</createdTime>
+<generatorID>251D3466-19A4-5690-5589-B872E47A3D45</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>73CB9795-42E2-93A7-26A4-370708715C9E</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="lokacija" id="AA8930BA-49C2-3A52-F94A-C547ED5A316C">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 21:37:54 UTC</createdTime>
+<generatorID>A582FD17-DFA3-0CC9-F827-16EB98B55C3E</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>8BA60DD3-A2FE-DC87-9370-17E963CFA006</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="korisnik" id="D8C7F21D-9B3F-9EBE-B59A-927849BE2ED6">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 06:24:24 UTC</createdTime>
+<generatorID>FC12F959-148D-8865-1B6F-D97E68DD3304</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<referedAttribute>3F4F195B-93DD-4E58-8FDA-4EF0D688E476</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="ABE52355-9D35-F60D-B864-444A1A34DB7D" name="Posmatranje PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 19:02:42 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>88DACB73-5A02-8AE8-03D0-76F5B6978927</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="2F49E4B8-E5FC-4046-8E24-8EF9096E11C6" name="Posmatranje UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 20:12:10 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<newElementsIDs>D8C7F21D-9B3F-9EBE-B59A-927849BE2ED6,A2DD869A-15F3-1150-968D-C01745D0B7CC,4CC318B0-6067-4E9F-6D29-6F9A2E14F4B1</newElementsIDs>
+<usedAttributes>
+<attributeRef>D8C7F21D-9B3F-9EBE-B59A-927849BE2ED6</attributeRef>
+<attributeRef>A2DD869A-15F3-1150-968D-C01745D0B7CC</attributeRef>
+<attributeRef>4CC318B0-6067-4E9F-6D29-6F9A2E14F4B1</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

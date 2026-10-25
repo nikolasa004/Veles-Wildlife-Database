@@ -1,0 +1,83 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="53A4F0F7-D29B-A25C-6661-51DC9278854C" name="Staniste">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:39:55 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="stanisteID" id="9DC48BC8-E855-B020-E15B-856C13689F30">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:40:05 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="naziv" id="CB3BAF97-C87C-183F-FF53-B137688888DD">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:40:19 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="tip" id="B128BB27-B466-5924-F458-9E352285C910">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:40:56 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="F8E05350-79D8-FF43-FE73-87A301455663" name="Staniste PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-21 16:40:23 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>9DC48BC8-E855-B020-E15B-856C13689F30</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="12678017-501F-CCA0-0577-524BB3A7DDA9" name="Staniste UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 07:46:31 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<newElementsIDs>CB3BAF97-C87C-183F-FF53-B137688888DD</newElementsIDs>
+<usedAttributes>
+<attributeRef>CB3BAF97-C87C-183F-FF53-B137688888DD</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

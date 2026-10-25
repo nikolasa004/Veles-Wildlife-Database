@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="9BB07D6B-871F-C5DD-C6ED-79DAA57A0E4E" containerWithKeyObject="3B3FEB85-D022-24C1-D185-9C9AB03791B5" localFKIndex="8A771C81-D0C3-2A04-D60E-CAE4828BB2B6" name="VrstaZivotinje_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>2966A1D6-C1B7-93BD-CFA6-2294B2300FB7</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<referredTableLongName>StatusZastite</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>E9060984-ABBA-25C1-C647-6B42387B3AFE</referredTableID>
+<keyObject>0F9BA0CD-7959-55B6-50A6-8BA726123DC5</keyObject>
+<referredKeyID>0F9BA0CD-7959-55B6-50A6-8BA726123DC5</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>ugrozenostID</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

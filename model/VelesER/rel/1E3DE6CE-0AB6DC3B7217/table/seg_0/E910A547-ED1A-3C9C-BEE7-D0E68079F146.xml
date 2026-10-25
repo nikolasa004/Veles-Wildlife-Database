@@ -1,0 +1,102 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="E910A547-ED1A-3C9C-BEE7-D0E68079F146" name="PosmatranjaProjekata">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="posmatranjeID" id="3E83253B-0242-3421-4BA3-EC7623E97534">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="AF158B62-7D5C-D289-E6E2-BF8B6B70C179" referredColumn="7117D2D0-100D-D000-D541-68E19EB71DD9"/>
+</associations>
+</Column>
+<Column name="projekatID" id="1E3BC297-32DF-E65F-F0C5-F506D95F4293">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="75910689-D345-444D-BE9A-8D44403D0681" referredColumn="E606BBF8-5325-9C53-AF67-FF85518B3315"/>
+</associations>
+</Column>
+<Column name="datumDodavanja" id="81C2E4B6-CFA5-33A3-6E99-5912B1BD244A">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>4BE61D2F-F88C-BB64-B753-8F302E0FEDEB</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<isRelationshipColumn>true</isRelationshipColumn>
+</Column>
+<Column name="napomena" id="4469A98C-585E-E872-74B0-0940ED064313">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1F0D205E-0DA1-76A7-1721-62858C567B52</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<isRelationshipColumn>true</isRelationshipColumn>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="654DDD6C-68F7-285D-220E-8A7AB55FE5CB" name="PosmatranjaProjekata_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="3E83253B-0242-3421-4BA3-EC7623E97534"/>
+<colUsage columnID="1E3BC297-32DF-E65F-F0C5-F506D95F4293"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="1DDE5AC0-32BE-ACD7-2B00-717524C375E7" name="PosmatranjaProjekata_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>012F129B-1E53-EB44-EAE5-32F94DB69415</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="3E83253B-0242-3421-4BA3-EC7623E97534"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C5F2EA0A-E11E-A533-8D61-6D220306F342" name="PosmatranjaProjekata_FKv1">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>012F129B-1E53-EB44-EAE5-32F94DB69415</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1E3BC297-32DF-E65F-F0C5-F506D95F4293"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

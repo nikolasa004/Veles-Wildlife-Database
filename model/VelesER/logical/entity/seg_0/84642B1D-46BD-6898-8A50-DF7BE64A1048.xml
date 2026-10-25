@@ -1,0 +1,117 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="84642B1D-46BD-6898-8A50-DF7BE64A1048" name="ManePosmatranja">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 19:54:31 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="tezinaMane" id="1BBD43B7-8BC0-BAEF-4C0E-52D11A862EF6">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 19:54:39 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>213B01D3-C7F3-680F-B1DC-8DF4F59907F0</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="napomena" id="6D4A7292-22FA-9B83-11CC-DD9CFA1EB480">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 19:55:18 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>128</dataTypeSize>
+<ownDataTypeParameters>128,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="procenaOpasnosti" id="DC1841AE-787A-5C51-6ABF-E1A5C87A66EC">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 19:55:48 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<domain>213B01D3-C7F3-680F-B1DC-8DF4F59907F0</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="mana" id="6329B2B5-4F70-50FF-AF1B-B93F44DA68C5">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 19:58:39 UTC</createdTime>
+<generatorID>E87C4490-CCF1-520F-311E-9639F933A9FA</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<referedAttribute>E6885AD1-0492-3863-8FF2-6371CB13B4F5</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="posmatranje" id="E49A6CDE-0569-0033-E679-7B2CAF27EE0C">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 19:59:05 UTC</createdTime>
+<generatorID>EEC4C3A5-5428-7C60-FDDE-AD8D18B80077</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<referedAttribute>88DACB73-5A02-8AE8-03D0-76F5B6978927</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="intervencija" id="E325796C-9831-DAB9-8B8F-DF269030ED5A">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-06 10:41:04 UTC</createdTime>
+<generatorID>003ACC18-475D-63F5-B6DE-FD9D8ED1F351</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>AF6CDF8F-87CA-B1F2-99B9-F6AB649A6D3F</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="D8313FC9-6E7F-C720-3C12-9909BE3EB832" name="ManePosmatranja PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 19:58:39 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="03B53D2F-9470-A1BC-80EB-21ED6BC805C2" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>6329B2B5-4F70-50FF-AF1B-B93F44DA68C5</attributeRef>
+<attributeRef>E49A6CDE-0569-0033-E679-7B2CAF27EE0C</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

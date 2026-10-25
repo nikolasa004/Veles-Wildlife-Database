@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="D44E2ACF-0C76-FFF0-E275-2B4B42200248" containerWithKeyObject="D3E53C4E-DA61-546A-E9FD-7270EC483D75" localFKIndex="71C99C00-4F4C-14EF-68E5-8B385AED9974" name="NagradeKorisnika_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>B29A08BA-C8E3-D923-C28E-8C3A742EFF93</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<referredTableLongName>Nagrada</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>46B7C7C6-01AC-B165-5FDD-10A3E8A1909A</referredTableID>
+<keyObject>FCAFF61E-3C8A-D637-E2B5-6C0E51D17EB9</keyObject>
+<referredKeyID>FCAFF61E-3C8A-D637-E2B5-6C0E51D17EB9</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>nagradaID</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

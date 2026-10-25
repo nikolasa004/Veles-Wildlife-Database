@@ -1,0 +1,138 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3B3FEB85-D022-24C1-D185-9C9AB03791B5" name="VrstaZivotinje">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>A27332F2-9290-7CEA-C151-0F4390D4355E</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="zivotinjaID" id="71991138-1BB1-BA61-C5F3-D5968034EBC2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D85D023B-EEA7-7A28-FF67-50CC0297FF7A</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="narodniNaziv" id="C6251315-52C3-3A41-E522-CE42DC12BF24">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>2E405A02-8A3C-A4BE-01E7-B80C930DDC00</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>32,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="latinskiNaziv" id="160235FC-B56A-4D4B-5437-81B797E34320">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>77D286E1-744D-5240-3DBA-BEB593A52469</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>64</dataTypeSize>
+<ownDataTypeParameters>64,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="tipAktivnosti" id="55084DB1-AAA2-32DD-FBB2-E20A98D25163">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>04E010FB-FE5B-F4BF-9971-440D2071528B</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<domain>9B1742F5-E728-B2E0-6212-3DE2721C3B86</domain>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="taksonomija" id="9A14DA30-AA39-FB45-AAAE-02FEFD302428">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>9E268EBC-69FB-00CC-7A6B-AAEEBD97D42A</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="762E861C-646C-00AC-7794-C959148F2CC3" referredColumn="1D40BDEC-20D5-D8A7-AE5C-A9B8FBB40F2B"/>
+</associations>
+</Column>
+<Column name="statusZastite" id="C402D01C-2E4E-2120-5C5D-BC14C36A685A">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>D229D953-4353-D43E-2882-D6670A4F2CE3</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="9BB07D6B-871F-C5DD-C6ED-79DAA57A0E4E" referredColumn="1778CCFC-01C3-1164-5D45-ADF7F0052944"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="DB7C4E5D-3A1F-3516-72BC-79B71A1F9E31" name="VrstaZivotinje_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>06F47AA8-C4BB-9837-92FE-5C6BCB1480D6</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="71991138-1BB1-BA61-C5F3-D5968034EBC2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="45FCF8FA-4912-CB1D-37FD-A5D2B72C4B7D" name="VrstaZivotinje_UQ">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>4CA86862-C991-C753-4991-4B007FF27B8C</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="160235FC-B56A-4D4B-5437-81B797E34320"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="8A771C81-D0C3-2A04-D60E-CAE4828BB2B6" name="VrstaZivotinje_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>2966A1D6-C1B7-93BD-CFA6-2294B2300FB7</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C402D01C-2E4E-2120-5C5D-BC14C36A685A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="0F1A75A8-3690-D114-55D2-354F2A2FD3F9" name="VrstaZivotinje_FKv2">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>F4C4CD0C-B0DA-E60C-40E5-4530B1A405F7</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9A14DA30-AA39-FB45-AAAE-02FEFD302428"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

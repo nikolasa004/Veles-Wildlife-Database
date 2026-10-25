@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="MozeTrofej" directorySegmentName="seg_0" id="255BF9A1-26A2-1715-5011-27525E0C9898">
+<createdBy>nikol</createdBy>
+<createdTime>2025-09-22 22:25:27 UTC</createdTime>
+<ownerDesignName>VelesER</ownerDesignName>
+<engineerTo>
+<item key="240FF215-79B0-1354-345A-24754E2E3C52" value="true"/>
+</engineerTo>
+<targetPk>FAF46E19-1E7D-D47A-DB79-6353B5EE2101</targetPk>
+<arc>C9A18ED9-3989-CF31-CD46-8AD738C98B8A</arc>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>27AD657D-858E-725F-FD1D-D53109C6FA8A</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>6B652BF3-6A61-AC3C-ED6D-B01B997D11D5</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

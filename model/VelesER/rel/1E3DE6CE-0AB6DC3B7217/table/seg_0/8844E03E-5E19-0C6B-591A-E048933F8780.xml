@@ -1,0 +1,74 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="8844E03E-5E19-0C6B-591A-E048933F8780" name="StandardanKorisnik">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>46A09529-3582-1CF9-3F6E-89C6ABFC46E5</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="email" id="DD97AA85-8049-0FFC-1D03-B1A58446C26F">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>3F4F195B-93DD-4E58-8FDA-4EF0D688E476</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>32</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="B5FAE11A-5903-B5C6-E31A-9F84F06E553E" referredColumn="457EF534-7069-9411-AD31-66E831C89825"/>
+</associations>
+</Column>
+<Column name="rang" id="723BD169-14EE-32AF-4C2D-B0FB34B54B52">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>46B964BF-E0A9-3135-BE31-01AA0BD2308D</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="znacka" id="844EDE94-F9A2-D89B-F609-6C70053EC7B9">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>DB633DF4-68D7-BB48-FE52-B231247CB771</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT010</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="6571BB60-C299-907B-17A7-6C0C572CC447" name="StandardanKorisnik_PK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1D1C0808-1AE6-C233-A264-62596C1DBF03</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="DD97AA85-8049-0FFC-1D03-B1A58446C26F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="F2082DF4-B378-7AEA-646B-E79A4F5B65EE" name="StandardanKorisnik_FK">
+<createdBy>nikol</createdBy>
+<createdTime>2025-10-08 23:53:32 UTC</createdTime>
+<generatorID>1734CE9B-2A80-4A0D-D0D3-06BB5933CFCA</generatorID>
+<ownerDesignName>VelesER</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="DD97AA85-8049-0FFC-1D03-B1A58446C26F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
